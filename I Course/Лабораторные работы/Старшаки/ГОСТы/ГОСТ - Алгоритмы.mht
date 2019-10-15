@@ -1,0 +1,2197 @@
+From: <Saved by Windows Internet Explorer 7>
+Subject: =?windows-1251?B?w87R0iAtIMDr4+7w6PLs+w==?=
+Date: Thu, 20 Apr 2006 18:31:04 +0400
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0067_01C664A8.94F3D950"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.2180
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0067_01C664A8.94F3D950
+Content-Type: text/html;
+	charset="windows-1251"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://mgiem-vt.narod.ru/practice/algoritm.htm
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML xmlns=3D"http://www.w3.org/TR/REC-html40" xmlns:v =3D=20
+"urn:schemas-microsoft-com:vml" xmlns:o =3D=20
+"urn:schemas-microsoft-com:office:office" xmlns:w =3D=20
+"urn:schemas-microsoft-com:office:word"><HEAD><TITLE>=C3=CE=D1=D2 - =
+=C0=EB=E3=EE=F0=E8=F2=EC=FB</TITLE>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dwindows-1251">
+<META content=3DWord.Document name=3DProgId>
+<META content=3D"MSHTML 6.00.5296.0" name=3DGENERATOR>
+<META content=3D"Microsoft Word 10" name=3DOriginator><LINK=20
+href=3D"Algoritm.files/filelist.xml" rel=3DFile-List><LINK=20
+href=3D"Algoritm.files/editdata.mso" rel=3DEdit-Time-Data><!--[if !mso]>
+<STYLE>v\:* {
+	BEHAVIOR: url(#default#VML)
+}
+o\:* {
+	BEHAVIOR: url(#default#VML)
+}
+w\:* {
+	BEHAVIOR: url(#default#VML)
+}
+.shape {
+	BEHAVIOR: url(#default#VML)
+}
+</STYLE>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Yuri Noskov</o:Author>
+  <o:LastAuthor>Volkov Andrey</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>844</o:TotalTime>
+  <o:LastPrinted>2002-03-17T08:59:00Z</o:LastPrinted>
+  <o:Created>2005-06-20T18:35:00Z</o:Created>
+  <o:LastSaved>2005-06-20T18:35:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>623</o:Words>
+  <o:Characters>3553</o:Characters>
+  <o:Company>Unknown Organization</o:Company>
+  <o:Bytes>34816</o:Bytes>
+  <o:Lines>29</o:Lines>
+  <o:Paragraphs>8</o:Paragraphs>
+  <o:CharactersWithSpaces>4168</o:CharactersWithSpaces>
+  <o:Version>10.2625</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:HyphenationZone>17</w:HyphenationZone>
+  <w:DoNotHyphenateCaps/>
+  =
+<w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEve=
+ry>
+  =
+<w:DisplayVerticalDrawingGridEvery>0</w:DisplayVerticalDrawingGridEvery>
+  <w:UseMarginsForDrawingGridOrigin/>
+  <w:Compatibility>
+   <w:UsePrinterMetrics/>
+   <w:WW6BorderRules/>
+   <w:FootnoteLayoutLikeWW8/>
+   <w:ShapeLayoutLikeWW8/>
+   <w:AlignTablesRowByRow/>
+   <w:ForgetLastTabAlignment/>
+   <w:LayoutRawTableWidth/>
+   <w:LayoutTableRowsApart/>
+   <w:UseWord97LineBreakingRules/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]-->
+<STYLE>@font-face {
+	font-family: Wingdings;
+}
+@page Section1 {size: 595.3pt 841.9pt; margin: 2.0cm 2.0cm 2.0cm 70.9pt; =
+mso-header-margin: 36.0pt; mso-footer-margin: 36.0pt; mso-title-page: =
+yes; mso-even-header: url("Algoritm.files/header.htm") eh1; =
+mso-even-footer: url("Algoritm.files/header.htm") ef1; mso-footer: =
+url("Algoritm.files/header.htm") f1; mso-paper-source: 0; }
+P.MsoNormal {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoNormal {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoNormal {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-style-parent: ""; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+H1 {
+	FONT-SIZE: 14pt; MARGIN: 12pt 0cm 3pt; FONT-FAMILY: Arial; =
+mso-bidi-font-weight: normal; mso-pagination: widow-orphan; =
+mso-style-next: =CE=E1=FB=F7=ED=FB=E9; mso-outline-level: 1; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"; =
+mso-font-kerning: 14.0pt
+}
+H2 {
+	FONT-SIZE: 12pt; MARGIN: 12pt 0cm 3pt; FONT-STYLE: italic; FONT-FAMILY: =
+Arial; mso-bidi-font-weight: normal; mso-pagination: widow-orphan; =
+mso-style-next: =CE=E1=FB=F7=ED=FB=E9; mso-outline-level: 2; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"; =
+mso-bidi-font-style: normal
+}
+H3 {
+	FONT-WEIGHT: normal; FONT-SIZE: 12pt; MARGIN: 12pt 0cm 3pt; =
+FONT-FAMILY: Arial; mso-pagination: widow-orphan; mso-style-next: =
+=CE=E1=FB=F7=ED=FB=E9; mso-outline-level: 3; mso-bidi-font-size: 10.0pt; =
+mso-bidi-font-family: "Times New Roman"
+}
+H4 {
+	FONT-SIZE: 12pt; MARGIN: 12pt 0cm 3pt; FONT-FAMILY: Arial; =
+mso-bidi-font-weight: normal; mso-pagination: widow-orphan; =
+mso-style-next: =CE=E1=FB=F7=ED=FB=E9; mso-outline-level: 4; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"
+}
+H5 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11pt; MARGIN: 12pt 0cm 3pt; =
+FONT-FAMILY: Arial; mso-pagination: widow-orphan; mso-style-next: =
+=CE=E1=FB=F7=ED=FB=E9; mso-outline-level: 5; mso-bidi-font-size: 10.0pt; =
+mso-bidi-font-family: "Times New Roman"
+}
+H6 {
+	FONT-WEIGHT: normal; FONT-SIZE: 11pt; MARGIN: 12pt 0cm 3pt; FONT-STYLE: =
+italic; FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-style-next: =CE=E1=FB=F7=ED=FB=E9; mso-outline-level: 6; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-style: normal
+}
+P.MsoHeader {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; tab-stops: center 233.85pt right 467.75pt
+}
+LI.MsoHeader {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; tab-stops: center 233.85pt right 467.75pt
+}
+DIV.MsoHeader {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; tab-stops: center 233.85pt right 467.75pt
+}
+P.MsoFooter {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; tab-stops: center 233.85pt right 467.75pt
+}
+LI.MsoFooter {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; tab-stops: center 233.85pt right 467.75pt
+}
+DIV.MsoFooter {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; tab-stops: center 233.85pt right 467.75pt
+}
+P.MsoList {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoList {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoList {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+P.MsoListBullet {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoListBullet {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoListBullet {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 18pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+P.MsoList2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoList2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoList2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+P.MsoListBullet2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoListBullet2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoListBullet2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 36pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+P.MsoListBullet3 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 54pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoListBullet3 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 54pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoListBullet3 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 0pt 54pt; TEXT-INDENT: -18pt; =
+FONT-FAMILY: "Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+P.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; MARGIN: 12pt 0cm 3pt; FONT-FAMILY: =
+Arial; TEXT-ALIGN: center; mso-bidi-font-weight: normal; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"; =
+mso-font-kerning: 14.0pt
+}
+LI.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; MARGIN: 12pt 0cm 3pt; FONT-FAMILY: =
+Arial; TEXT-ALIGN: center; mso-bidi-font-weight: normal; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"; =
+mso-font-kerning: 14.0pt
+}
+DIV.MsoTitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; MARGIN: 12pt 0cm 3pt; FONT-FAMILY: =
+Arial; TEXT-ALIGN: center; mso-bidi-font-weight: normal; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"; =
+mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New Roman"; =
+mso-font-kerning: 14.0pt
+}
+P.MsoBodyText {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+P.MsoBodyTextIndent {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"
+}
+LI.MsoBodyTextIndent {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"
+}
+DIV.MsoBodyTextIndent {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"
+}
+P.MsoListContinue2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 36pt; FONT-FAMILY: "Times New =
+Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"
+}
+LI.MsoListContinue2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 36pt; FONT-FAMILY: "Times New =
+Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"
+}
+DIV.MsoListContinue2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 36pt; FONT-FAMILY: "Times New =
+Roman"; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"
+}
+P.MsoSubtitle {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 3pt; FONT-FAMILY: Arial; TEXT-ALIGN: =
+center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New =
+Roman"
+}
+LI.MsoSubtitle {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 3pt; FONT-FAMILY: Arial; TEXT-ALIGN: =
+center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New =
+Roman"
+}
+DIV.MsoSubtitle {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 3pt; FONT-FAMILY: Arial; TEXT-ALIGN: =
+center; mso-pagination: widow-orphan; mso-fareast-font-family: "Times =
+New Roman"; mso-bidi-font-size: 10.0pt; mso-bidi-font-family: "Times New =
+Roman"
+}
+P.MsoBodyText2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt; LINE-HEIGHT: 200%; FONT-FAMILY: =
+"Times New Roman"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+P.MsoBodyText3 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-style-parent: "=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 =F1 =
+=EE=F2=F1=F2=F3=EF=EE=EC"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyText3 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-style-parent: "=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 =F1 =
+=EE=F2=F1=F2=F3=EF=EE=EC"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyText3 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-style-parent: "=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 =F1 =
+=EE=F2=F1=F2=F3=EF=EE=EC"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"
+}
+P.MsoBodyTextIndent2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 3pt; TEXT-INDENT: 17.85pt; =
+FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: justify; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+LI.MsoBodyTextIndent2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 3pt; TEXT-INDENT: 17.85pt; =
+FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: justify; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+DIV.MsoBodyTextIndent2 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 3pt; TEXT-INDENT: 17.85pt; =
+FONT-FAMILY: "Times New Roman"; TEXT-ALIGN: justify; mso-pagination: =
+widow-orphan; mso-fareast-font-family: "Times New Roman"
+}
+A:link {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlink {
+	COLOR: blue; TEXT-DECORATION: underline; text-underline: single
+}
+A:visited {
+	COLOR: purple; TEXT-DECORATION: underline; text-underline: single
+}
+SPAN.MsoHyperlinkFollowed {
+	COLOR: purple; TEXT-DECORATION: underline; text-underline: single
+}
+P.1 {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-bidi-font-size: 10.0pt; mso-style-name: =D1=F2=E8=EB=FC1
+}
+LI.1 {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-bidi-font-size: 10.0pt; mso-style-name: =D1=F2=E8=EB=FC1
+}
+DIV.1 {
+	FONT-SIZE: 12pt; MARGIN: 0cm 0cm 0pt; FONT-FAMILY: "Times New Roman"; =
+mso-pagination: widow-orphan; mso-fareast-font-family: "Times New =
+Roman"; mso-bidi-font-size: 10.0pt; mso-style-name: =D1=F2=E8=EB=FC1
+}
+P.4 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-style-parent: "=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 =F1 =
+=EE=F2=F1=F2=F3=EF=EE=EC"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-name: =
+"=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 4"
+}
+LI.4 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-style-parent: "=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 =F1 =
+=EE=F2=F1=F2=F3=EF=EE=EC"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-name: =
+"=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 4"
+}
+DIV.4 {
+	FONT-SIZE: 10pt; MARGIN: 0cm 0cm 6pt 18pt; FONT-FAMILY: "Times New =
+Roman"; mso-style-parent: "=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 =F1 =
+=EE=F2=F1=F2=F3=EF=EE=EC"; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-style-name: =
+"=CE=F1=ED=EE=E2=ED=EE=E9 =F2=E5=EA=F1=F2 4"
+}
+P.a {
+	FONT-SIZE: 14pt; MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 36pt; FONT-FAMILY: =
+"Times New Roman"; TEXT-ALIGN: justify; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-style-name: =CC=C8=DD=CC
+}
+LI.a {
+	FONT-SIZE: 14pt; MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 36pt; FONT-FAMILY: =
+"Times New Roman"; TEXT-ALIGN: justify; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-style-name: =CC=C8=DD=CC
+}
+DIV.a {
+	FONT-SIZE: 14pt; MARGIN: 0cm 0cm 0pt; TEXT-INDENT: 36pt; FONT-FAMILY: =
+"Times New Roman"; TEXT-ALIGN: justify; mso-pagination: widow-orphan; =
+mso-fareast-font-family: "Times New Roman"; mso-bidi-font-size: 10.0pt; =
+mso-style-name: =CC=C8=DD=CC
+}
+SPAN.GramE {
+	mso-style-name: ""; mso-gram-e: yes
+}
+DIV.Section1 {
+	page: Section1
+}
+OL {
+	MARGIN-BOTTOM: 0cm
+}
+UL {
+	MARGIN-BOTTOM: 0cm
+}
+</STYLE>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"=CE=E1=FB=F7=ED=E0=FF =F2=E0=E1=EB=E8=F6=E0";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]--></HEAD>
+<BODY lang=3DRU style=3D"tab-interval: 36.0pt" vLink=3Dpurple =
+link=3Dblue>
+<DIV class=3DSection1>
+<P class=3DMsoNormal=20
+style=3D"TEXT-ALIGN: center; mso-hyphenate: none; mso-layout-grid-align: =
+none"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal">=C3=CE=D1=D2=20
+19.701-90<o:p></o:p></B></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-ALIGN: center; mso-hyphenate: none; mso-layout-grid-align: =
+none"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: =
+normal">=D1=D5=C5=CC=DB<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; =
+</SPAN>=C0=CB=C3=CE=D0=C8=D2=CC=CE=C2,<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=CF=D0=CE=C3=D0=C0=CC=CC,<SPAN =
+
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=C4=C0=CD=CD=DB=D5<SPAN=20
+style=3D"mso-spacerun: yes">&nbsp; </SPAN>=C8<SPAN =
+style=3D"mso-spacerun: yes">&nbsp;=20
+</SPAN>=D1=C8=D1=D2=C5=CC<o:p></o:p></B></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-ALIGN: center; mso-hyphenate: none; mso-layout-grid-align: =
+none"=20
+align=3Dcenter><SPAN class=3DGramE><B style=3D"mso-bidi-font-weight: =
+normal"><SPAN=20
+lang=3DEN-US style=3D"mso-ansi-language: EN-US">(</SPAN> =
+=C2=FB=EF=E8=F1=EA=E0</B></SPAN><B=20
+style=3D"mso-bidi-font-weight: normal"> </B><B=20
+style=3D"mso-bidi-font-weight: normal"><SPAN lang=3DEN-US=20
+style=3D"mso-ansi-language: EN-US">)<o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal><SPAN lang=3DEN-US=20
+style=3D"mso-ansi-language: EN-US"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-ALIGN: center; mso-hyphenate: none; mso-layout-grid-align: =
+none"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: =
+normal">=CE=EF=E8=F1=E0=ED=E8=E5 =F1=E8=EC=E2=EE=EB=EE=E2<SPAN=20
+style=3D"TEXT-TRANSFORM: uppercase"><o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal><SPAN lang=3DEN-US=20
+style=3D"mso-ansi-language: EN-US"><o:p>&nbsp;</o:p></SPAN></P>
+<DIV align=3Dcenter>
+<TABLE class=3DMsoNormalTable=20
+style=3D"BORDER-RIGHT: medium none; BORDER-TOP: medium none; =
+BORDER-LEFT: medium none; BORDER-BOTTOM: medium none; BORDER-COLLAPSE: =
+collapse; mso-border-alt: solid windowtext .5pt; mso-padding-alt: 0cm =
+2.85pt 0cm 2.85pt"=20
+cellSpacing=3D0 cellPadding=3D0 border=3D1>
+  <TBODY>
+  <TR style=3D"mso-yfti-irow: 0">
+    <TD=20
+    style=3D"BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: =
+0cm; BORDER-LEFT: windowtext 1pt solid; WIDTH: 3cm; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext =
+1.0pt; mso-border-right-alt: solid windowtext .5pt"=20
+    width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: center; mso-hyphenate: none; =
+mso-layout-grid-align: none"=20
+      align=3Dcenter><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">=D1=E8=EC=E2=EE=EB<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: =
+0cm; BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: windowtext 1pt solid; mso-border-left-alt: solid =
+windowtext .5pt"=20
+    width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: center; mso-hyphenate: none; =
+mso-layout-grid-align: none"=20
+      align=3Dcenter><B style=3D"mso-bidi-font-weight: =
+normal">=CD=E0=E8=EC=E5=ED=EE=E2=E0=ED=E8=E5=20
+      =F1=E8=EC=E2=EE=EB=E0<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: =
+0cm; BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: windowtext 1pt solid; mso-border-left-alt: solid =
+windowtext 1.0pt"=20
+    width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: center; mso-hyphenate: none; =
+mso-layout-grid-align: none"=20
+      align=3Dcenter><B style=3D"mso-bidi-font-weight: =
+normal">=CE=EF=E8=F1=E0=ED=E8=E5=20
+      =F1=E8=EC=E2=EE=EB=E0<o:p></o:p></B></P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 1">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 178.6pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none; mso-border-top-alt: solid windowtext 1.0pt"=20
+    vAlign=3Dtop width=3D238 colSpan=3D2>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><B=20
+      style=3D"mso-bidi-font-weight: normal">=D1=E8=EC=E2=EE=EB=FB =
+=E4=E0=ED=ED=FB=F5</B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none; mso-border-top-alt: solid windowtext 1.0pt"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none"><o:p>&nbsp;</o:p></P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 2">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:shapetype=20
+      id=3D_x0000_t111 coordsize =3D "21600,21600" o:spt =3D "111" path =
+=3D=20
+      " m4321,0 l21600,0,17204,21600,0,21600 xe"><v:stroke joinstyle =3D =
+
+      "miter"></v:stroke><v:path=20
+      =
+o:connectlocs=3D"12961,0;10800,0;2161,10800;8602,21600;10800,21600;19402,=
+10800"=20
+      gradientshapeok =3D "t" o:connecttype =3D "custom" textboxrect =3D =
+
+      "4321,0,17204,21600"></v:path></v:shapetype><v:shape =
+id=3D_x0000_s1026=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 1; MARGIN-LEFT: 2.85pt; =
+WIDTH: 70.85pt; POSITION: absolute; HEIGHT: 14.15pt; mso-wrap-edited: f; =
+mso-wrap-distance-left: 0; mso-wrap-distance-right: 0; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"3906 0 -460 21600 17694 21600 17923 21600 22060 0 =
+3906 0" type=20
+      =3D "#_x0000_t111" coordsize =3D "21600,21600" strokeweight =3D =
+"1pt"></v:shape><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  =
+position:absolute;z-index:1;margin-left:1px;margin-top:5px;width:100px;
+  height:21px'><img width=3D100 height=3D21 =
+src=3D"Algoritm.files/image001.gif"
+  v:shapes=3D"_x0000_s1026"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=C4=E0=ED=ED=FB=E5<SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: =
+EN-US"><o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><SPAN =
+lang=3DEN-US=20
+      style=3D"mso-ansi-language: =
+EN-US"><o:p>&nbsp;</o:p></SPAN></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=F2=EE=E1=F0=E0=E6=E0=E5=F2 =E4=E0=ED=ED=FB=E5, =
+=ED=EE=F1=E8=F2=E5=EB=FC =EA=EE=F2=EE=F0=FB=F5 =ED=E5 =
+=EE=EF=F0=E5=E4=E5=EB=E5=ED.</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 3">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 178.6pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D238 colSpan=3D2>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><B=20
+      style=3D"mso-bidi-font-weight: normal">=D1=E8=EC=E2=EE=EB=FB =
+=EF=F0=EE=F6=E5=F1=F1=E0</B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><o:p>&nbsp;</o:p></P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 4">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:shapetype=20
+      id=3D_x0000_t109 coordsize =3D "21600,21600" o:spt =3D "109" path =
+=3D=20
+      " m0,0 l0,21600,21600,21600,21600,0 xe"><v:stroke joinstyle =3D=20
+      "miter"></v:stroke><v:path gradientshapeok =3D "t" o:connecttype =
+=3D=20
+      "rect"></v:path></v:shapetype><v:shape id=3D_x0000_s1126=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 6; MARGIN-LEFT: 2.85pt; =
+WIDTH: 70.85pt; POSITION: absolute; HEIGHT: 14.15pt; mso-wrap-edited: f; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"-230 0 -230 21600 21830 21600 21830 0 -230 0" type =
+=3D=20
+      "#_x0000_t109" coordsize =3D "21600,21600" strokeweight =3D =
+"1pt"></v:shape><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  position:absolute;z-index:6;margin-left:3px;margin-top:5px;width:96px;
+  height:21px'><img width=3D96 height=3D21 =
+src=3D"Algoritm.files/image002.gif"
+  v:shapes=3D"_x0000_s1126"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=CF=F0=EE=F6=E5=F1=F1</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =F4=F3=ED=EA=F6=E8=FE =
+=EE=E1=F0=E0=E1=EE=F2=EA=E8 =E4=E0=ED=ED=FB=F5 =
+=EA=E0=EA=EE=E3=EE-=EB=E8=E1=EE =E2=E8=E4=E0 =
+(=E2=FB=EF=EE=EB=ED=E5=ED=E8=E5=20
+      =EE=EF=F0=E5=E4=E5=EB=E5=ED=ED=EE=E9 =EE=EF=E5=F0=E0=F6=E8=E8 =
+=E8=EB=E8 =E3=F0=F3=EF=EF=FB =EE=EF=E5=F0=E0=F6=E8=E9 =ED=E0=E4 =
+=E4=E0=ED=ED=FB=EC=E8).</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 5">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:shapetype=20
+      id=3D_x0000_t112 coordsize =3D "21600,21600" o:spt =3D "112" path =
+=3D=20
+      " m0,0 l0,21600,21600,21600,21600,0 x e m2610,0 nf l2610,21600 e =
+m18990,0 nf l18990,21600 e"><v:stroke=20
+      joinstyle =3D "miter"></v:stroke><v:path o:extrusionok =3D "f" =
+gradientshapeok=20
+      =3D "t" o:connecttype =3D "rect" textboxrect =3D=20
+      "2610,0,18990,21600"></v:path></v:shapetype><v:shape =
+id=3D_x0000_s1127=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 7; MARGIN-LEFT: 2.85pt; =
+WIDTH: 70.85pt; POSITION: absolute; HEIGHT: 14.15pt; mso-wrap-edited: f; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"-230 0 -230 21600 21830 21600 21830 0 -230 0" type =
+=3D=20
+      "#_x0000_t112" coordsize =3D "21600,21600" strokeweight =3D =
+"1pt"><w:wrap side=20
+      =3D "right"></w:wrap></v:shape><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  position:absolute;z-index:7;margin-left:3px;margin-top:5px;width:96px;
+  height:21px'><img width=3D96 height=3D21 =
+src=3D"Algoritm.files/image003.gif"
+  v:shapes=3D"_x0000_s1127"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=CF=F0=E5=E4=EE=EF=F0=E5=E4=E5=EB=E5=ED=ED=FB=E9=20
+      =EF=F0=EE=F6=E5=F1=F1</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =
+=EF=F0=E5=E4=EE=EF=F0=E5=E4=E5=EB=E5=ED=ED=FB=E9 =EF=F0=EE=F6=E5=F1=F1, =
+=EA=EE=F2=EE=F0=FB=E9 =F1=EE=F1=F2=EE=E8=F2 =E8=E7 =EE=E4=ED=EE=E9 =
+=E8=EB=E8=20
+      =ED=E5=F1=EA=EE=EB=FC=EA=E8=F5 =EE=EF=E5=F0=E0=F6=E8=E9 =E8=EB=E8 =
+=F8=E0=E3=EE=E2 =EF=F0=EE=E3=F0=E0=EC=EC=FB, =EA=EE=F2=EE=F0=FB=E5 =
+=EE=EF=F0=E5=E4=E5=EB=E5=ED=FB =E2 =E4=F0=F3=E3=EE=EC =EC=E5=F1=F2=E5=20
+      (=E2 =EF=EE=E4=EF=F0=EE=E3=F0=E0=EC=EC=E5, =
+=EC=EE=E4=F3=EB=E5).</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 6">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:shapetype=20
+      id=3D_x0000_t117 coordsize =3D "21600,21600" o:spt =3D "117" path =
+=3D=20
+      " m4353,0 l17214,0,21600,10800,17214,21600,4353,21600,0,10800 =
+xe"><v:stroke=20
+      joinstyle =3D "miter"></v:stroke><v:path gradientshapeok =3D "t" =
+o:connecttype=20
+      =3D "rect" textboxrect =3D=20
+      "4353,0,17214,21600"></v:path></v:shapetype><v:shape =
+id=3D_x0000_s1128=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 8; MARGIN-LEFT: 2.85pt; =
+WIDTH: 70.85pt; POSITION: absolute; HEIGHT: 14.15pt; mso-wrap-edited: f; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"3677 0 -230 9095 -230 10232 2528 18189 3906 21600 =
+17694 21600 19072 18189 22060 12505 21830 9095 17923 0 3677 0"=20
+      type =3D "#_x0000_t117" coordsize =3D "21600,21600" strokeweight =
+=3D=20
+      "1pt"><w:wrap side =3D =
+"right"></w:wrap></v:shape><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  =
+position:absolute;z-index:8;margin-left:1px;margin-top:5px;width:100px;
+  height:21px'><img width=3D100 height=3D21 =
+src=3D"Algoritm.files/image004.gif"
+  v:shapes=3D"_x0000_s1128"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=CF=EE=E4=E3=EE=F2=EE=E2=EA=E0</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =EC=EE=E4=E8=F4=E8=EA=E0=F6=E8=FE =
+=EA=EE=EC=E0=ED=E4=FB =E8=EB=E8 =E3=F0=F3=EF=EF=FB =EA=EE=EC=E0=ED=E4 =
+=F1 =F6=E5=EB=FC=FE =E2=EB=E8=FF=ED=E8=FF =ED=E0=20
+      =ED=E5=EA=EE=F2=EE=F0=F3=FE =EF=EE=F1=EB=E5=E4=F3=FE=F9=F3=FE =
+=F4=F3=ED=EA=F6=E8=FE (=F3=F1=F2=E0=ED=EE=E2=EA=E0 =
+=EF=E5=F0=E5=EA=EB=FE=F7=E0=F2=E5=EB=FF, =
+=EC=EE=E4=E8=F4=E8=EA=E0=F6=E8=FF=20
+      =E8=ED=E4=E5=EA=F1=ED=EE=E3=EE =F0=E5=E3=E8=F1=F2=F0=E0 =E8=EB=E8 =
+=E8=ED=E8=F6=E8=E0=EB=E8=E7=E0=F6=E8=FF =
+=EF=F0=EE=E3=F0=E0=EC=EC=FB).</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 7">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:shapetype=20
+      id=3D_x0000_t110 coordsize =3D "21600,21600" o:spt =3D "110" path =
+=3D=20
+      " m10800,0 l0,10800,10800,21600,21600,10800 xe"><v:stroke =
+joinstyle =3D=20
+      "miter"></v:stroke><v:path gradientshapeok =3D "t" o:connecttype =
+=3D "rect"=20
+      textboxrect =3D =
+"5400,5400,16200,16200"></v:path></v:shapetype><v:shape=20
+      id=3D_x0000_s1129=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 9; MARGIN-LEFT: 2.85pt; =
+WIDTH: 70.85pt; POSITION: absolute; HEIGHT: 28.35pt; mso-wrap-edited: f; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"9881 0 -230 7958 -230 12505 6664 18189 9191 21600 =
+9881 21600 11719 21600 12409 21600 14936 18189 21830 12505 21600 6821 =
+11719 0 9881 0"=20
+      type =3D "#_x0000_t110" coordsize =3D "21600,21600" strokeweight =
+=3D=20
+      "1pt"><w:wrap side =3D =
+"right"></w:wrap></v:shape><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  =
+position:absolute;z-index:9;margin-left:1px;margin-top:4px;width:100px;
+  height:41px'><img width=3D100 height=3D41 =
+src=3D"Algoritm.files/image005.gif"
+  v:shapes=3D"_x0000_s1129"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=D0=E5=F8=E5=ED=E8=E5</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =F0=E5=F8=E5=ED=E8=E5 =E8=EB=E8 =
+=F4=F3=ED=EA=F6=E8=FE =
+=EF=E5=F0=E5=EA=EB=FE=F7=E0=F2=E5=EB=FC=ED=EE=E3=EE =F2=E8=EF=E0, =
+=EA=EE=F2=EE=F0=FB=E9 =E8=EC=E5=E5=F2 =EE=E4=E8=ED=20
+      =E2=F5=EE=E4 =E8 =F0=FF=E4 =
+=E0=EB=FC=F2=E5=F0=ED=E0=F2=E8=E2=ED=FB=F5 =E2=FB=F5=EE=E4=EE=E2, =
+=F2=EE=EB=FC=EA=EE =EE=E4=E8=ED =E8=E7 =EA=EE=F2=EE=F0=FB=F5 =
+=EC=EE=E6=E5=F2 =E1=FB=F2=FC=20
+      =E0=EA=F2=E8=E2=E8=E7=E8=F0=EE=E2=E0=ED =EF=EE=F1=EB=E5 =
+=E2=FB=F7=E8=F1=EB=E5=ED=E8=FF =F3=F1=EB=EE=E2=E8=E9, =
+=EE=EF=F0=E5=E4=E5=EB=E5=ED=ED=FB=F5 =E2 =F1=E5=F0=E5=E4=E8=ED=E5 =
+=FD=F2=EE=E3=EE=20
+      =F1=E8=EC=E2=EE=EB=E0. =
+=D1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=FE=F9=E8=E5 =
+=F0=E5=E7=F3=EB=FC=F2=E0=F2=FB =E2=FB=F7=E8=F1=EB=E5=ED=E8=FF =
+=EC=EE=E3=F3=F2 =E1=FB=F2=FC =E7=E0=EF=E8=F1=E0=ED=FB =F0=FF=E4=EE=EC =
+=F1=20
+      =EB=E8=ED=E8=FF=EC=E8, =EA=EE=F2=EE=F0=FB=E5 =
+=EE=E1=EE=E7=ED=E0=F7=E0=FE=F2 =FD=F2=E8 =EF=F3=F2=E8.</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 8">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:group=20
+      id=3D_x0000_s1130=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 10; MARGIN-LEFT: 2.85pt; =
+WIDTH: 70.6pt; POSITION: absolute; HEIGHT: 36.35pt; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"1379 0 -230 3600 -230 17550 689 21600 1379 21600 =
+20221 21600 20911 21600 22060 17100 21830 3600 20221 0 1379 0"=20
+      coordsize =3D "1412,727" coordorigin =3D "2301,9184"><v:group =
+id=3D_x0000_s1131=20
+      style=3D"LEFT: 2301px; WIDTH: 1412px; POSITION: absolute; TOP: =
+9184px; HEIGHT: 283px"=20
+      coordsize =3D "2825,567" coordorigin =3D "2301,9372"><v:line =
+id=3D_x0000_s1132=20
+      style=3D"POSITION: absolute" from =3D "2305,9936" to =3D =
+"5123,9937"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1133=20
+      style=3D"POSITION: absolute" from =3D "5117,9608" to =3D =
+"5117,9939"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1134=20
+      style=3D"POSITION: absolute" from =3D "2303,9608" to =3D =
+"2303,9939"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1135=20
+      style=3D"POSITION: absolute" from =3D "2541,9372" to =3D =
+"4918,9372"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1136=20
+      style=3D"POSITION: absolute" from =3D "4899,9389" to =3D =
+"5126,9610"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1137=20
+      style=3D"POSITION: absolute; flip: x" from =3D "2301,9389" to =3D =
+"2528,9610"=20
+      strokeweight =3D "1pt"></v:line></v:group><v:group =
+id=3D_x0000_s1138=20
+      style=3D"LEFT: 2301px; WIDTH: 1412px; POSITION: absolute; TOP: =
+9628px; HEIGHT: 283px; flip: y"=20
+      coordsize =3D "2825,567" coordorigin =3D "2301,9372"><v:line =
+id=3D_x0000_s1139=20
+      style=3D"POSITION: absolute" from =3D "2305,9936" to =3D =
+"5123,9937"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1140=20
+      style=3D"POSITION: absolute" from =3D "5117,9608" to =3D =
+"5117,9939"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1141=20
+      style=3D"POSITION: absolute" from =3D "2303,9608" to =3D =
+"2303,9939"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1142=20
+      style=3D"POSITION: absolute" from =3D "2541,9372" to =3D =
+"4918,9372"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1143=20
+      style=3D"POSITION: absolute" from =3D "4899,9389" to =3D =
+"5126,9610"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1144=20
+      style=3D"POSITION: absolute; flip: x" from =3D "2301,9389" to =3D =
+"2528,9610"=20
+      strokeweight =3D "1pt"></v:line></v:group><w:wrap side =3D=20
+      "right"></w:wrap></v:group><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  =
+position:absolute;z-index:10;margin-left:3px;margin-top:5px;width:96px;
+  height:50px'><img width=3D96 height=3D50 =
+src=3D"Algoritm.files/image006.gif"
+  v:shapes=3D"_x0000_s1130 _x0000_s1131 _x0000_s1132 _x0000_s1133 =
+_x0000_s1134 _x0000_s1135 _x0000_s1136 _x0000_s1137 _x0000_s1138 =
+_x0000_s1139 _x0000_s1140 _x0000_s1141 _x0000_s1142 _x0000_s1143 =
+_x0000_s1144"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=C3=F0=E0=ED=E8=F6=FB=20
+    =F6=E8=EA=EB=E0</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB,=20
+      =EA=EE=F2=EE=F0=FB=E9 =F1=EE=F1=F2=EE=E8=F2 =E8=E7 =E4=E2=F3=F5 =
+=F7=E0=F1=F2=E5=E9, =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =ED=E0=F7=E0=EB=EE =
+=E8 =EA=EE=ED=E5=F6 =F6=E8=EA=EB=E0. =CE=E1=E5 =F7=E0=F1=F2=E8=20
+      =F1=E8=EC=E2=EE=EB=E0 =E8=EC=E5=FE=F2 =EE=E4=E8=ED =E8 =F2=EE=F2 =
+=E6=E5 =E8=E4=E5=ED=F2=E8=F4=E8=EA=E0=F2=EE=F0. =D3=F1=EB=EE=E2=E8=FF =
+=E8=ED=E8=F6=E8=E0=EB=E8=E7=E0=F6=E8=E8,=20
+      =EF=F0=E8=F0=E0=F9=E5=ED=E8=FF, =E7=E0=E2=E5=F0=F8=E5=ED=E8=FF =E8 =
+=F2.=E4. =EF=EE=EC=E5=F9=E0=FE=F2=F1=FF =E2 =F1=E5=F0=E5=E4=E8=ED=E5 =
+=F1=E8=EC=E2=EE=EB=E0 =E2 =ED=E0=F7=E0=EB=E5 =E8=EB=E8 =E2=20
+      =EA=EE=ED=F6=E5 =E2 =E7=E0=E2=E8=F1=E8=EC=EE=F1=F2=E8 =EE=F2 =
+=F0=E0=E7=EC=E5=F9=E5=ED=E8=FF =EE=EF=E5=F0=E0=F6=E8=E8, =
+=EA=EE=F2=EE=F0=E0=FF =EF=F0=EE=E2=E5=F0=FF=E5=F2=20
+    =F3=F1=EB=EE=E2=E8=E5.</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 9">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 178.6pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D238 colSpan=3D2>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><B=20
+      style=3D"mso-bidi-font-weight: normal">=D1=E8=EC=E2=EE=EB=FB =
+=EB=E8=ED=E8=E9</B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><o:p>&nbsp;</o:p></P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 10">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#9472;&#=
+9472;<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=CB=E8=ED=E8=FF<SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: =
+EN-US"><o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><SPAN =
+lang=3DEN-US=20
+      style=3D"mso-ansi-language: =
+EN-US"><o:p>&nbsp;</o:p></SPAN></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =EF=EE=F2=EE=EA =E4=E0=ED=ED=FB=F5 =
+=E8=EB=E8 =F3=EF=F0=E0=E2=EB=E5=ED=E8=FF.</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 11">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><B=20
+      style=3D"mso-bidi-font-weight: normal">&#9472;</B><B=20
+      style=3D"mso-bidi-font-weight: normal"><SPAN lang=3DEN-US=20
+      style=3D"mso-ansi-language: EN-US"><SPAN style=3D"mso-spacerun: =
+yes">&nbsp;=20
+      </SPAN></SPAN>&#9472;</B><B style=3D"mso-bidi-font-weight: =
+normal"><SPAN=20
+      style=3D"mso-ansi-language: EN-US"> <SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></SPAN>&#9472;</B><B=20
+      style=3D"mso-bidi-font-weight: normal"><SPAN=20
+      style=3D"mso-ansi-language: EN-US"> <SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></SPAN>&#9472;</B><B=20
+      style=3D"mso-bidi-font-weight: normal"><SPAN=20
+      style=3D"mso-ansi-language: EN-US"> <SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;</SPAN></SPAN>&#9472;</B><B=20
+      style=3D"mso-bidi-font-weight: normal"><SPAN=20
+      style=3D"mso-ansi-language: EN-US"> <SPAN=20
+      style=3D"mso-spacerun: =
+yes">&nbsp;</SPAN></SPAN>&#9472;<o:p></o:p></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=CF=F3=ED=EA=F2=E8=F0=ED=E0=FF=20
+      =EB=E8=ED=E8=FF</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =
+=E0=EB=FC=F2=E5=F0=ED=E0=F2=E8=E2=ED=F3=FE =F1=E2=FF=E7=FC =
+=EC=E5=E6=E4=F3 =E4=E2=F3=EC=FF =E8=EB=E8 =E1=EE=EB=E5=E5 =
+=F1=E8=EC=E2=EE=EB=E0=EC=E8. =CA=F0=EE=EC=E5=20
+      =F2=EE=E3=EE, =F1=E8=EC=E2=EE=EB =E8=F1=EF=EE=EB=FC=E7=F3=FE=F2 =
+=E4=EB=FF =EE=E1=F0=E0=EC=EB=E5=ED=E8=FF =
+=E0=ED=ED=EE=F2=E8=F0=EE=E2=E0=ED=ED=EE=E3=EE=20
+=F4=F0=E0=E3=EC=E5=ED=F2=E0.</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 12">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 178.6pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D238 colSpan=3D2>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><B=20
+      style=3D"mso-bidi-font-weight: =
+normal">=D1=EF=E5=F6=E8=E0=EB=FC=ED=FB=E5 =
+=F1=E8=EC=E2=EE=EB=FB</B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><o:p>&nbsp;</o:p></P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 13">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:group=20
+      id=3D_x0000_s1145=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 11; MARGIN-LEFT: 2.85pt; =
+WIDTH: 36.8pt; POSITION: absolute; HEIGHT: 20.05pt; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"3527 0 -441 12000 -441 15200 1322 21600 2204 21600 =
+18514 21600 18955 21600 21600 12800 22041 7200 21600 2400 19396 0 3527 =
+0"=20
+      coordsize =3D "736,401" coordorigin =3D "2781,13277"><v:group =
+id=3D_x0000_s1146=20
+      style=3D"LEFT: 2781px; WIDTH: 283px; POSITION: absolute; TOP: =
+13277px; HEIGHT: 397px"=20
+      coordsize =3D "567,794" coordorigin =3D "2781,13277"><v:oval =
+id=3D_x0000_s1147=20
+      style=3D"LEFT: 2781px; WIDTH: 567px; POSITION: absolute; TOP: =
+13504px; HEIGHT: 567px"=20
+      coordsize =3D "21600,21600" strokeweight =3D =
+"1pt"></v:oval><v:line=20
+      id=3D_x0000_s1148 style=3D"POSITION: absolute" from =3D =
+"3072,13277" to =3D=20
+      "3072,13504" strokeweight =3D "1pt"></v:line></v:group><v:group=20
+      id=3D_x0000_s1149=20
+      style=3D"LEFT: 3234px; WIDTH: 283px; POSITION: absolute; TOP: =
+13281px; HEIGHT: 397px; flip: y"=20
+      coordsize =3D "567,794" coordorigin =3D "2781,13277"><v:oval =
+id=3D_x0000_s1150=20
+      style=3D"LEFT: 2781px; WIDTH: 567px; POSITION: absolute; TOP: =
+13504px; HEIGHT: 567px"=20
+      coordsize =3D "21600,21600" strokeweight =3D =
+"1pt"></v:oval><v:line=20
+      id=3D_x0000_s1151 style=3D"POSITION: absolute" from =3D =
+"3072,13277" to =3D=20
+      "3072,13504" strokeweight =3D "1pt"></v:line></v:group><w:wrap =
+side =3D=20
+      "right"></w:wrap></v:group><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  =
+position:absolute;z-index:11;margin-left:3px;margin-top:5px;width:51px;
+  height:29px'><img width=3D51 height=3D29 =
+src=3D"Algoritm.files/image007.gif"
+  v:shapes=3D"_x0000_s1145 _x0000_s1146 _x0000_s1147 _x0000_s1148 =
+_x0000_s1149 _x0000_s1150 _x0000_s1151"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=D1=EE=E5=E4=E8=ED=E8=F2=E5=EB=FC</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =E2=FB=F5=EE=E4 =E2 =
+=E4=F0=F3=E3=F3=FE =F7=E0=F1=F2=FC =F1=F5=E5=EC=FB =E8 =E2=F5=EE=E4 =
+=E8=E7 =E4=F0=F3=E3=EE=E9 =F7=E0=F1=F2=E8 =FD=F2=EE=E9 =F1=F5=E5=EC=FB =
+=E8=20
+      =EF=F0=E8=EC=E5=ED=FF=E5=F2=F1=FF =E4=EB=FF =EE=E1=F0=FB=E2=E0 =
+=EB=E8=ED=E8=E8 =E8 =EF=F0=EE=E4=EE=EB=E6=E5=ED=E8=FF =E5=E5 =E2 =
+=E4=F0=F3=E3=EE=EC =EC=E5=F1=F2=E5.=20
+      =D1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=FE=F9=E8=E5 =
+=F1=E8=EC=E2=EE=EB=FB-=F1=EE=E5=E4=E8=ED=E8=F2=E5=EB=E8 =
+=E4=EE=EB=E6=ED=FB =F1=EE=E4=E5=F0=E6=E0=F2=FC =EE=E4=ED=EE =E8 =F2=EE =
+=E6=E5=20
+      =F3=ED=E8=EA=E0=EB=FC=ED=EE=E5 =
+=EE=E1=EE=E7=ED=E0=F7=E5=ED=E8=E5.</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 14">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:shapetype=20
+      id=3D_x0000_t116 coordsize =3D "21600,21600" o:spt =3D "116" path =
+=3D=20
+      " m3475,0 qx0,10800,3475,21600 l18125,21600 qx21600,10800,18125,0 =
+x e"><v:stroke=20
+      joinstyle =3D "miter"></v:stroke><v:path gradientshapeok =3D "t" =
+o:connecttype=20
+      =3D "rect" textboxrect =3D=20
+      "1018,3163,20582,18437"></v:path></v:shapetype><v:shape =
+id=3D_x0000_s1027=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 2; MARGIN-LEFT: 2.85pt; =
+WIDTH: 70.85pt; POSITION: absolute; HEIGHT: 14.15pt; mso-wrap-edited: f; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"2298 0 0 2274 -230 13642 689 18189 2298 21600 2528 =
+21600 19072 21600 19532 21600 21140 18189 21830 12505 21600 2274 19302 0 =
+2298 0"=20
+      type =3D "#_x0000_t116" coordsize =3D "21600,21600" strokeweight =
+=3D=20
+      "1pt"><w:wrap side =3D =
+"right"></w:wrap></v:shape><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  position:absolute;z-index:2;margin-left:3px;margin-top:5px;width:96px;
+  height:21px'><img width=3D96 height=3D21 =
+src=3D"Algoritm.files/image008.gif"
+  v:shapes=3D"_x0000_s1027"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=D2=E5=F0=EC=E8=ED=E0=F2=EE=F0</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =EE=E1=EE=E7=ED=E0=F7=E0=E5=F2 =E2=FB=F5=EE=E4 =E2=EE =
+=E2=ED=E5=F8=ED=FE=FE =F1=F0=E5=E4=F3 =E8 =E2=F5=EE=E4 =E8=E7 =
+=E2=ED=E5=F8=ED=E5=E9 =F1=F0=E5=E4=FB (=ED=E0=F7=E0=EB=EE =E8=EB=E8=20
+      =EA=EE=ED=E5=F6 =F1=F5=E5=EC=FB =EF=F0=EE=E3=F0=E0=EC=EC=FB, =
+=E2=ED=E5=F8=ED=E5=E5 =E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=E5 =E8 =
+=E8=F1=F2=EE=F7=ED=E8=EA =E8=EB=E8 =EF=F3=ED=EA=F2=20
+      =ED=E0=E7=ED=E0=F7=E5=ED=E8=FF =E4=E0=ED=ED=FB=F5).</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 15">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+medium none"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><!--[if =
+gte vml 1]><v:group=20
+      id=3D_x0000_s1028=20
+      style=3D"MARGIN-TOP: 4.25pt; Z-INDEX: 3; MARGIN-LEFT: 2.85pt; =
+WIDTH: 36.85pt; POSITION: absolute; HEIGHT: 14.15pt; =
+mso-position-horizontal-relative: text; mso-position-vertical-relative: =
+text"=20
+      wrapcoords=3D"18955 0 -441 9095 -441 11368 18955 18189 18955 20463 =
+22041 20463 22041 0 18955 0"=20
+      coordsize =3D "737,283" coordorigin =3D "2101,13821"><v:group =
+id=3D_x0000_s1029=20
+      style=3D"LEFT: 2781px; WIDTH: 57px; POSITION: absolute; TOP: =
+13821px; HEIGHT: 283px"=20
+      coordsize =3D "113,567" coordorigin =3D "2781,13864"><v:line =
+id=3D_x0000_s1030=20
+      style=3D"POSITION: absolute" from =3D "2781,13864" to =3D =
+"2781,14431"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1031=20
+      style=3D"POSITION: absolute" from =3D "2781,13864" to =3D =
+"2894,13864"=20
+      strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1032=20
+      style=3D"POSITION: absolute" from =3D "2781,14413" to =3D =
+"2894,14413"=20
+      strokeweight =3D "1pt"></v:line></v:group><v:line =
+id=3D_x0000_s1033=20
+      style=3D"POSITION: absolute" from =3D "2101,13950" to =3D =
+"2781,13950"=20
+      strokeweight =3D "1pt"><v:stroke dashstyle =3D=20
+      "dash"></v:stroke></v:line><w:wrap side =3D =
+"right"></w:wrap></v:group><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;
+  position:absolute;z-index:3;margin-left:3px;margin-top:5px;width:51px;
+  height:21px'><img width=3D51 height=3D21 =
+src=3D"Algoritm.files/image009.gif"
+  v:shapes=3D"_x0000_s1028 _x0000_s1029 _x0000_s1030 _x0000_s1031 =
+_x0000_s1032 _x0000_s1033"></span><![endif]></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=CA=EE=EC=EC=E5=ED=F2=E0=F0=E8=E9</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: medium none"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      =E8=F1=EF=EE=EB=FC=E7=F3=FE=F2 =E4=EB=FF =
+=E4=EE=E1=E0=E2=EB=E5=ED=E8=FF =EE=EF=E8=F1=FB=E2=E0=FE=F9=E8=F5 =
+=EA=EE=EC=EC=E5=ED=F2=E0=F0=E8=E5=E2 =E8=EB=E8 =
+=EF=EE=FF=F1=ED=FF=FE=F9=E8=F5 =E7=E0=EF=E8=F1=E5=E9=20
+      =F1 =F6=E5=EB=FC=FE =EF=EE=FF=F1=ED=E5=ED=E8=FF =E8=EB=E8 =
+=EF=F0=E8=EC=E5=F7=E0=ED=E8=E9. =CF=F3=ED=EA=F2=E8=F0=ED=E0=FF =
+=EB=E8=ED=E8=FF =E2 =F1=E8=EC=E2=EE=EB=E5 =
+=EA=EE=EC=EC=E5=ED=F2=E0=F0=E8=FF=20
+      =F1=E2=FF=E7=E0=ED=E0 =F1 =
+=F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=FE=F9=E8=EC =F1=E8=EC=E2=EE=EB=EE=EC =
+=E8=EB=E8 =EC=EE=E6=E5=F2 =EE=E1=E2=EE=E4=E8=F2=FC =E3=F0=F3=EF=EF=F3 =
+=F1=E8=EC=E2=EE=EB=EE=E2.=20
+      =D2=E5=EA=F1=F2 =EA=EE=EC=EC=E5=ED=F2=E0=F0=E8=FF =E8=EB=E8 =
+=EF=F0=E8=EC=E5=F7=E0=ED=E8=FF =E4=EE=EB=E6=E5=ED =E1=FB=F2=FC =
+=EF=EE=EC=E5=F9=E5=ED =E2=EE=E7=EB=E5 =EE=E1=E2=E5=E4=E5=ED=ED=EE=E9=20
+      =F4=E8=E3=F3=F0=FB.</P></TD></TR>
+  <TR style=3D"mso-yfti-irow: 16; mso-yfti-lastrow: yes">
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 3cm; PADDING-TOP: 0cm; BORDER-BOTTOM: =
+windowtext 1pt solid"=20
+    vAlign=3Dtop width=3D113>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><B=20
+      style=3D"mso-bidi-font-weight: normal"><SPAN=20
+      style=3D"TEXT-TRANSFORM: uppercase">&#9472;&#9472;</SPAN></B><B=20
+      style=3D"mso-bidi-font-weight: normal"><SPAN=20
+      style=3D"TEXT-TRANSFORM: uppercase; mso-ansi-language: EN-US"> =
+</SPAN><SPAN=20
+      style=3D"TEXT-TRANSFORM: =
+uppercase">&#8729;&#8729;&#8729;</SPAN></B><B=20
+      style=3D"mso-bidi-font-weight: normal"><SPAN=20
+      style=3D"TEXT-TRANSFORM: uppercase; mso-ansi-language: EN-US"> =
+</SPAN><SPAN=20
+      style=3D"TEXT-TRANSFORM: uppercase">&#9472;&#9472;</SPAN></B><B=20
+      style=3D"mso-bidi-font-weight: normal"><SPAN lang=3DEN-US=20
+      style=3D"mso-ansi-language: EN-US"><o:p></o:p></SPAN></B></P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 93.55pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: windowtext 1pt solid"=20
+    vAlign=3Dtop width=3D125>
+      <P class=3DMsoNormal=20
+      style=3D"mso-hyphenate: none; mso-layout-grid-align: =
+none">=CF=F0=EE=EF=F3=F1=EA</P></TD>
+    <TD=20
+    style=3D"BORDER-RIGHT: medium none; PADDING-RIGHT: 2.85pt; =
+BORDER-TOP: medium none; PADDING-LEFT: 2.85pt; PADDING-BOTTOM: 0cm; =
+BORDER-LEFT: medium none; WIDTH: 289.15pt; PADDING-TOP: 0cm; =
+BORDER-BOTTOM: windowtext 1pt solid"=20
+    vAlign=3Dtop width=3D386>
+      <P class=3DMsoNormal=20
+      style=3D"TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none">=D1=E8=EC=E2=EE=EB=20
+      (=F2=F0=E8 =F2=EE=F7=EA=E8) =E8=F1=EF=EE=EB=FC=E7=F3=FE=F2 =E2 =
+=F1=F5=E5=EC=E0=F5 =E4=EB=FF =EE=E1=EE=E7=ED=E0=F7=E5=ED=E8=FF =
+=EF=F0=EE=EF=F3=F1=EA=E0 =F1=E8=EC=E2=EE=EB=E0 =E8=EB=E8=20
+      =E3=F0=F3=EF=EF=FB =F1=E8=EC=E2=EE=EB=EE=E2, =E2 =
+=EA=EE=F2=EE=F0=FB=F5 =ED=E5 =EE=EF=F0=E5=E4=E5=EB=E5=ED=FB =ED=E8 =
+=F2=E8=EF, =ED=E8 =EA=EE=EB=E8=F7=E5=F1=F2=E2=EE =
+=F1=E8=EC=E2=EE=EB=EE=E2.=20
+      =DD=F2=EE=F2 =F1=E8=EC=E2=EE=EB =E8=F1=EF=EE=EB=FC=E7=F3=FE=F2 =
+=F2=EE=EB=FC=EA=EE =E2 =F1=E8=EC=E2=EE=EB=E0=F5 =EB=E8=ED=E8=E9 =
+=E8=EB=E8 =EC=E5=E6=E4=F3=20
+  =ED=E8=EC=E8.</P></TD></TR></TBODY></TABLE></DIV>
+<P class=3DMsoNormal=20
+style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-ALIGN: center; mso-hyphenate: none; mso-layout-grid-align: =
+none"=20
+align=3Dcenter><B style=3D"mso-bidi-font-weight: normal"><SPAN=20
+style=3D"FONT-SIZE: 12pt">=CF=F0=E0=E2=E8=EB=E0 =
+=E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=FF =F1=E8=EC=E2=EE=EB=EE=E2 =E8 =
+=E2=FB=EF=EE=EB=ED=E5=ED=E8=FF=20
+=F1=F5=E5=EC<o:p></o:p></SPAN></B></P>
+<P class=3DMsoNormal=20
+style=3D"mso-hyphenate: none; mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt"><o:p>&nbsp;</o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 42.55pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">=C1=EE=EB=FC=F8=E8=ED=F1=F2=E2=EE =
+=F1=E8=EC=E2=EE=EB=EE=E2 =E7=E0=E4=F3=EC=E0=ED=EE =F2=E0=EA, =
+=F7=F2=EE=E1=FB =E4=E0=F2=FC=20
+=E2=EE=E7=EC=EE=E6=ED=EE=F1=F2=FC =E2=EA=EB=FE=F7=E5=ED=E8=FF =
+=F2=E5=EA=F1=F2=E0 =E2 =F1=E5=F0=E5=E4=E8=ED=F3 =F1=E8=EC=E2=EE=EB=E0. =
+=D4=EE=F0=EC=FB =F1=E8=EC=E2=EE=EB=EE=E2, =EA=EE=F2=EE=F0=FB=E5=20
+=F3=F1=F2=E0=ED=EE=E2=EB=E5=ED=FB =FD=F2=E8=EC =
+=F1=F2=E0=ED=E4=E0=F0=F2=EE=EC, =E4=EE=EB=E6=ED=FB =F1=EB=F3=E6=E8=F2=FC =
+=F0=F3=EA=EE=E2=EE=E4=F1=F2=E2=EE=EC =E4=EB=FF =
+=F4=E0=EA=F2=E8=F7=E5=F1=EA=E8=20
+=E8=F1=EF=EE=EB=FC=E7=F3=E5=EC=FB=F5 =F1=E8=EC=E2=EE=EB=EE=E2. =CD=E5 =
+=E4=EE=EB=E6=ED=FB =E8=E7=EC=E5=ED=FF=F2=FC=F1=FF =F3=E3=EB=FB =E8 =
+=E4=F0=F3=E3=E8=E5 =EF=E0=F0=E0=EC=E5=F2=F0=FB, =EA=EE=F2=EE=F0=FB=E5=20
+=E2=EB=E8=FF=FE=F2 =ED=E0 =F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=FE=F9=F3=FE =
+=F4=EE=F0=EC=F3 =F1=E8=EC=E2=EE=EB=EE=E2. =D1=E8=EC=E2=EE=EB=FB =
+=E4=EE=EB=E6=ED=FB =E1=FB=F2=FC, =EF=EE =
+=E2=EE=E7=EC=EE=E6=ED=EE=F1=F2=E8,=20
+=EE=E4=ED=EE=E3=EE =F0=E0=E7=EC=E5=F0=E0.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 42.55pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">=CF=EE=F2=EE=EA=E8 =E4=E0=ED=ED=FB=F5 =
+=E8=EB=E8 =EF=EE=F2=EE=EA=E8 =F3=EF=F0=E0=E2=EB=E5=ED=E8=FF =E2 =
+=F1=F5=E5=EC=E0=F5=20
+=EF=EE=EA=E0=E7=FB=E2=E0=FE=F2=F1=FF =EB=E8=ED=E8=FF=EC=E8. =
+=CD=E0=EF=F0=E0=E2=EB=E5=ED=E8=E5 =EF=EE=F2=EE=EA=E0 =F1=EB=E5=E2=E0 =
+=ED=E0=EF=F0=E0=E2=EE =E8 =F1=E2=E5=F0=F5=F3 =E2=ED=E8=E7 =
+=F1=F7=E8=F2=E0=E5=F2=F1=FF=20
+=F1=F2=E0=ED=E4=E0=F0=F2=ED=FB=EC. =C2 =F1=EB=F3=F7=E0=FF=F5, =
+=EA=EE=E3=E4=E0 =ED=E5=EE=E1=F5=EE=E4=E8=EC=EE =E2=ED=E5=F1=F2=E8 =
+=E1=EE=EB=FC=F8=F3=FE =FF=F1=ED=EE=F1=F2=FC =E2 =F1=F5=E5=EC=F3=20
+(=ED=E0=EF=F0=E8=EC=E5=F0, =EF=F0=E8 =F1=EE=E5=E4=E8=ED=E5=ED=E8=FF=F5), =
+=ED=E0 =EB=E8=ED=E8=FF=F5 =E8=F1=EF=EE=EB=FC=E7=F3=FE=F2=F1=FF =
+=F1=F2=F0=E5=EB=EA=E8. =C5=F1=EB=E8 =EF=EE=F2=EE=EA =E8=EC=E5=E5=F2=20
+=ED=E0=EF=F0=E0=E2=EB=E5=ED=E8=E5, =EE=F2=EB=E8=F7=ED=EE=E5 =EE=F2 <SPAN =
+class=3DGramE>=F1=F2=E0=ED=E4=E0=F0=F2=ED=EE=E3=EE</SPAN>, =
+=F1=F2=F0=E5=EB=EA=E8 =E4=EE=EB=E6=ED=FB=20
+=EF=EE=EA=E0=E7=FB=E2=E0=F2=FC =FD=F2=EE =
+=ED=E0=EF=F0=E0=E2=EB=E5=ED=E8=E5.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 42.55pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">=C2 =F1=F5=E5=EC=E0=F5 =F1=EB=E5=E4=F3=E5=F2 =
+=E8=E7=E1=E5=E3=E0=F2=FC =EF=E5=F0=E5=F1=E5=F7=E5=ED=E8=FF=20
+=EB=E8=ED=E8=E9.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 42.55pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">=CB=E8=ED=E8=E8 =E2 =F1=F5=E5=EC=E0=F5 =
+=E4=EE=EB=E6=ED=FB =EF=EE=E4=F5=EE=E4=E8=F2=FC =EA =F1=E8=EC=E2=EE=EB=F3 =
+=E8=EB=E8 =F1=EB=E5=E2=E0, =E8=EB=E8=20
+=F1=E2=E5=F0=F5=F3, =E0 =E2=FB=F5=EE=E4=E8=F2=FC =96 =E8=EB=E8 =
+=F1=EF=F0=E0=E2=E0, =E8=EB=E8 =F1=ED=E8=E7=F3. =CB=E8=ED=E8=E8 =
+=E4=EE=EB=E6=ED=FB =E1=FB=F2=FC =ED=E0=EF=F0=E0=E2=EB=E5=ED=FB =EA=20
+=F6=E5=ED=F2=F0=F3 =F1=E8=EC=E2=EE=EB=E0.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 42.55pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">=CD=E5=F1=EA=EE=EB=FC=EA=EE =
+=E2=FB=F5=EE=E4=EE=E2 =E8=E7 =F1=E8=EC=E2=EE=EB=E0 =ED=F3=E6=ED=EE=20
+=EF=EE=EA=E0=E7=FB=E2=E0=F2=FC:<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 14.2pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">1) =ED=E5=F1=EA=EE=EB=FC=EA=E8=EC=E8 =
+=EB=E8=ED=E8=FF=EC=E8 =EE=F2 =E4=E0=ED=ED=EE=E3=EE =F1=E8=EC=E2=EE=EB=E0 =
+=EA =E4=F0=F3=E3=E8=EC=20
+=F1=E8=EC=E2=EE=EB=E0=EC;<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 14.2pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">2) =EE=E4=ED=EE=E9 =EB=E8=ED=E8=E5=E9 =EE=F2 =
+=E4=E0=ED=ED=EE=E3=EE =F1=E8=EC=E2=EE=EB=E0, =EA=EE=F2=EE=F0=E0=FF =
+=EF=EE=F2=EE=EC=20
+=F0=E0=E7=E2=E5=F2=E2=EB=FF=E5=F2=F1=FF =E2 =
+=F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=FE=F9=E5=E5 =F7=E8=F1=EB=EE =
+=EB=E8=ED=E8=E9.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 42.55pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">=CA=E0=E6=E4=FB=E9 =E2=FB=F5=EE=E4 =E8=E7 =
+=F2=E0=EA=EE=E3=EE =F1=E8=EC=E2=EE=EB=E0 =E4=EE=EB=E6=E5=ED =
+=F1=EE=EF=F0=EE=E2=EE=E6=E4=E0=F2=FC=F1=FF=20
+=F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=FE=F9=E8=EC=E8 =
+=E7=ED=E0=F7=E5=ED=E8=FF=EC=E8 =F3=F1=EB=EE=E2=E8=E9, =
+=EF=EE=EA=E0=E7=FB=E2=E0=FE=F9=E8=EC=E8 =
+=E8=E7=EE=E1=F0=E0=E6=E0=E5=EC=FB=E9 =EB=EE=E3=E8=F7=E5=F1=EA=E8=E9 =
+=EF=F3=F2=FC,=20
+=E4=EB=FF =F2=EE=E3=EE, =F7=F2=EE=E1=FB =FD=F2=E8 =F3=F1=EB=EE=E2=E8=FF =
+=E8 =F1=EE=EE=F2=E2=E5=F2=F1=F2=E2=F3=FE=F9=E8=E5 =EF=EE=F1=FB=EB=EA=E8 =
+=E1=FB=EB=E8=20
+=E8=E4=E5=ED=F2=E8=F4=E8=F6=E8=F0=EE=E2=E0=ED=FB.<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 42.55pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><SPAN=20
+style=3D"FONT-SIZE: 12pt">=CF=F0=E8=EC=E5=F0=FB =
+=E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=FF =F1=E8=EC=E2=EE=EB=E0=20
+"=D0=E5=F8=E5=ED=E8=E5".<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal=20
+style=3D"TEXT-INDENT: 42.55pt; TEXT-ALIGN: justify; mso-hyphenate: none; =
+mso-layout-grid-align: none"><!--[if gte vml 1]><o:wrapblock><v:group=20
+id=3D_x0000_s1084=20
+style=3D"MARGIN-TOP: 0px; Z-INDEX: 5; LEFT: 0px; MARGIN-LEFT: 8.3pt; =
+WIDTH: 453.55pt; POSITION: absolute; HEIGHT: 99.2pt; TEXT-ALIGN: left"=20
+coordsize =3D "9071,1984" coordorigin =3D "1616,1846" o:allowincell =3D =
+"f"><v:rect=20
+id=3D_x0000_s1085=20
+style=3D"LEFT: 1616px; WIDTH: 9071px; POSITION: absolute; TOP: 1846px; =
+HEIGHT: 1984px"=20
+coordsize =3D "21600,21600" filled =3D "f" stroked =3D =
+"f"></v:rect><v:group=20
+id=3D_x0000_s1086=20
+style=3D"LEFT: 1701px; WIDTH: 3414px; POSITION: absolute; TOP: 1948px; =
+HEIGHT: 1160px"=20
+coordsize =3D "3414,1160" coordorigin =3D "1975,1948"><v:shapetype =
+id=3D_x0000_t202=20
+coordsize =3D "21600,21600" o:spt =3D "202" path =3D=20
+" m0,0 l0,21600,21600,21600,21600,0 xe"><v:stroke joinstyle =3D=20
+"miter"></v:stroke><v:path gradientshapeok =3D "t" o:connecttype =3D=20
+"rect"></v:path></v:shapetype><v:shape id=3D_x0000_s1087=20
+style=3D"LEFT: 2829px; WIDTH: 1701px; POSITION: absolute; TOP: 2361px; =
+HEIGHT: 283px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.218pt; LEFT: auto; MARGIN-LEFT: 0.468pt; WIDTH: =
+85.031pt; TOP: auto; HEIGHT: 14.156pt"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=D1=F0=E0=E2=ED=E8=F2=FC <SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: EN-US">A</SPAN> =E8 <SPAN =
+lang=3DEN-US=20
+      style=3D"mso-ansi-language: EN-US">B</SPAN></P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:shape =
+
+id=3D_x0000_s1088=20
+style=3D"LEFT: 3708px; WIDTH: 567px; POSITION: absolute; TOP: 2825px; =
+HEIGHT: 283px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.187pt; LEFT: auto; MARGIN-LEFT: 0.156pt; WIDTH: =
+28.343pt; TOP: auto; HEIGHT: 14.125pt"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter><SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: =
+EN-US">A&gt;B</SPAN></P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:shape =
+
+id=3D_x0000_s1089=20
+style=3D"LEFT: 4822px; WIDTH: 567px; POSITION: absolute; TOP: 2222px; =
+HEIGHT: 283px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.031pt; LEFT: auto; MARGIN-LEFT: 0.375pt; WIDTH: =
+28.343pt; TOP: auto; HEIGHT: 14.156pt"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter><SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: =
+EN-US">A&lt;B</SPAN></P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:shape =
+
+id=3D_x0000_s1090=20
+style=3D"LEFT: 2008px; WIDTH: 567px; POSITION: absolute; TOP: 2231px; =
+HEIGHT: 283px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.468pt; LEFT: auto; MARGIN-LEFT: 0.656pt; WIDTH: =
+28.343pt; TOP: auto; HEIGHT: 14.156pt"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter><SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: EN-US">A</SPAN>=3D<SPAN =
+lang=3DEN-US=20
+      style=3D"mso-ansi-language: EN-US">B</SPAN></P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:group =
+
+id=3D_x0000_s1091=20
+style=3D"LEFT: 1975px; WIDTH: 3413px; POSITION: absolute; TOP: 1948px; =
+HEIGHT: 1125px"=20
+coordsize =3D "3413,1125" coordorigin =3D "1975,1948"><v:line =
+id=3D_x0000_s1092=20
+style=3D"POSITION: absolute" from =3D "3675,1948" to =3D "3675,2231" =
+strokeweight =3D=20
+"1pt"></v:line><v:shape id=3D_x0000_s1093=20
+style=3D"LEFT: 2541px; WIDTH: 2268px; POSITION: absolute; TOP: 2221px; =
+HEIGHT: 567px"=20
+type =3D "#_x0000_t110" coordsize =3D "21600,21600" filled =3D "f" =
+strokeweight =3D=20
+"1pt"></v:shape><v:line id=3D_x0000_s1094 style=3D"POSITION: absolute" =
+from =3D=20
+"3672,2790" to =3D "3672,3073" strokeweight =3D "1pt"></v:line><v:line=20
+id=3D_x0000_s1095 style=3D"POSITION: absolute" from =3D "1975,2499" to =
+=3D "2542,2499"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1096 =
+style=3D"POSITION: absolute"=20
+from =3D "4821,2497" to =3D "5388,2497" strokeweight =3D=20
+"1pt"></v:line></v:group></v:group><v:group id=3D_x0000_s1097=20
+style=3D"LEFT: 5553px; WIDTH: 2268px; POSITION: absolute; TOP: 1933px; =
+HEIGHT: 1397px"=20
+coordsize =3D "2268,1397" coordorigin =3D "5553,1933"><v:shape =
+id=3D_x0000_s1098=20
+style=3D"LEFT: 6177px; WIDTH: 1247px; POSITION: absolute; TOP: 3030px; =
+HEIGHT: 283px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.687pt; LEFT: auto; MARGIN-LEFT: 0.062pt; WIDTH: =
+62.343pt; TOP: auto; HEIGHT: 14.125pt; mso-next-textbox: #_x0000_s1098"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter><SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: EN-US">1<SPAN=20
+      style=3D"mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN>2<SPAN =
+
+      style=3D"mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp; </SPAN>3<SPAN =
+
+      style=3D"mso-spacerun: yes">&nbsp;&nbsp;&nbsp;&nbsp;=20
+      </SPAN>4</SPAN></P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:group =
+
+id=3D_x0000_s1099=20
+style=3D"LEFT: 5553px; WIDTH: 2268px; POSITION: absolute; TOP: 1933px; =
+HEIGHT: 1397px"=20
+coordsize =3D "2268,1397" coordorigin =3D "5553,1933"><v:group =
+id=3D_x0000_s1100=20
+style=3D"LEFT: 5553px; WIDTH: 2268px; POSITION: absolute; TOP: 1933px; =
+HEIGHT: 1125px"=20
+coordsize =3D "2268,1125" coordorigin =3D "5541,1984"><v:shape =
+id=3D_x0000_s1101=20
+style=3D"LEFT: 5850px; WIDTH: 1701px; POSITION: absolute; TOP: 2412px; =
+HEIGHT: 283px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.218pt; LEFT: auto; MARGIN-LEFT: 0.062pt; WIDTH: =
+85.031pt; TOP: auto; HEIGHT: 14.156pt"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=C7=ED=E0=F7=E5=ED=E8=FF=20
+      =F3=F1=EB=EE=E2=E8=FF</P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:group =
+
+id=3D_x0000_s1102=20
+style=3D"LEFT: 5541px; WIDTH: 2268px; POSITION: absolute; TOP: 1984px; =
+HEIGHT: 1125px"=20
+coordsize =3D "2268,1125" coordorigin =3D "5867,1984"><v:line =
+id=3D_x0000_s1103=20
+style=3D"POSITION: absolute" from =3D "7001,1984" to =3D "7001,2267" =
+strokeweight =3D=20
+"1pt"></v:line><v:shape id=3D_x0000_s1104=20
+style=3D"LEFT: 5867px; WIDTH: 2268px; POSITION: absolute; TOP: 2257px; =
+HEIGHT: 567px"=20
+type =3D "#_x0000_t110" coordsize =3D "21600,21600" filled =3D "f" =
+strokeweight =3D=20
+"1pt"></v:shape><v:line id=3D_x0000_s1105 style=3D"POSITION: absolute" =
+from =3D=20
+"6998,2826" to =3D "6998,3109" strokeweight =3D=20
+"1pt"></v:line></v:group></v:group><v:group id=3D_x0000_s1106=20
+style=3D"LEFT: 6142px; WIDTH: 1077px; POSITION: absolute; TOP: 3030px; =
+HEIGHT: 300px"=20
+coordsize =3D "1077,300" coordorigin =3D "6330,3124"><v:line =
+id=3D_x0000_s1107=20
+style=3D"POSITION: absolute" from =3D "6330,3132" to =3D "7407,3132" =
+strokeweight =3D=20
+"1pt"></v:line><v:group id=3D_x0000_s1108=20
+style=3D"LEFT: 6330px; WIDTH: 1077px; POSITION: absolute; TOP: 3124px; =
+HEIGHT: 300px"=20
+coordsize =3D "1077,300" coordorigin =3D "6330,3124"><v:line =
+id=3D_x0000_s1109=20
+style=3D"POSITION: absolute" from =3D "6330,3141" to =3D "6330,3424" =
+strokeweight =3D=20
+"1pt"></v:line><v:line id=3D_x0000_s1110 style=3D"POSITION: absolute" =
+from =3D=20
+"6690,3132" to =3D "6690,3415" strokeweight =3D "1pt"></v:line><v:line=20
+id=3D_x0000_s1111 style=3D"POSITION: absolute" from =3D "7050,3132" to =
+=3D "7050,3415"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1112 =
+style=3D"POSITION: absolute"=20
+from =3D "7407,3124" to =3D "7407,3407" strokeweight =3D=20
+"1pt"></v:line></v:group></v:group></v:group></v:group><v:group =
+id=3D_x0000_s1113=20
+style=3D"LEFT: 8313px; WIDTH: 2268px; POSITION: absolute; TOP: 1916px; =
+HEIGHT: 1807px"=20
+coordsize =3D "2268,1807" coordorigin =3D "8313,1916"><v:shape =
+id=3D_x0000_s1114=20
+style=3D"LEFT: 9449px; WIDTH: 283px; POSITION: absolute; TOP: 2807px; =
+HEIGHT: 907px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.031pt; LEFT: auto; MARGIN-LEFT: 0.156pt; WIDTH: =
+14.156pt; TOP: auto; HEIGHT: 45.343pt; mso-next-textbox: #_x0000_s1114"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter><SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: =
+EN-US">1<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter><SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: =
+EN-US">2<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter><SPAN=20
+      lang=3DEN-US style=3D"mso-ansi-language: =
+EN-US">3<o:p></o:p></SPAN></P>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter><SPAN=20
+      lang=3DEN-US=20
+    style=3D"mso-ansi-language: EN-US">4</SPAN></P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:group =
+
+id=3D_x0000_s1115=20
+style=3D"LEFT: 8313px; WIDTH: 2268px; POSITION: absolute; TOP: 1916px; =
+HEIGHT: 1807px"=20
+coordsize =3D "2268,1807" coordorigin =3D "8313,1916"><v:group =
+id=3D_x0000_s1116=20
+style=3D"LEFT: 8313px; WIDTH: 2268px; POSITION: absolute; TOP: 1916px; =
+HEIGHT: 840px"=20
+coordsize =3D "2268,840" coordorigin =3D "8313,1916"><v:shape =
+id=3D_x0000_s1117=20
+style=3D"LEFT: 8622px; WIDTH: 1701px; POSITION: absolute; TOP: 2344px; =
+HEIGHT: 283px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.125pt; LEFT: auto; MARGIN-LEFT: 0.062pt; WIDTH: =
+85.031pt; TOP: auto; HEIGHT: 14.156pt"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=C7=ED=E0=F7=E5=ED=E8=FF=20
+      =F3=F1=EB=EE=E2=E8=FF</P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:line=20
+id=3D_x0000_s1118 style=3D"POSITION: absolute" from =3D "9447,1916" to =
+=3D "9447,2199"=20
+strokeweight =3D "1pt"></v:line><v:shape id=3D_x0000_s1119=20
+style=3D"LEFT: 8313px; WIDTH: 2268px; POSITION: absolute; TOP: 2189px; =
+HEIGHT: 567px"=20
+type =3D "#_x0000_t110" coordsize =3D "21600,21600" filled =3D "f" =
+strokeweight =3D=20
+"1pt"></v:shape></v:group><v:group id=3D_x0000_s1120=20
+style=3D"LEFT: 9440px; WIDTH: 292px; POSITION: absolute; TOP: 2756px; =
+HEIGHT: 967px"=20
+coordsize =3D "292,967" coordorigin =3D "9457,2824"><v:line =
+id=3D_x0000_s1121=20
+style=3D"POSITION: absolute" from =3D "9457,2824" to =3D "9457,3788" =
+strokeweight =3D=20
+"1pt"></v:line><v:line id=3D_x0000_s1122 style=3D"POSITION: absolute" =
+from =3D=20
+"9466,3071" to =3D "9749,3071" strokeweight =3D "1pt"></v:line><v:line=20
+id=3D_x0000_s1123 style=3D"POSITION: absolute" from =3D "9457,3311" to =
+=3D "9740,3311"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1124 =
+style=3D"POSITION: absolute"=20
+from =3D "9458,3551" to =3D "9741,3551" strokeweight =3D =
+"1pt"></v:line><v:line=20
+id=3D_x0000_s1125 style=3D"POSITION: absolute" from =3D "9458,3791" to =
+=3D "9741,3791"=20
+strokeweight =3D "1pt"></v:line></v:group></v:group></v:group><w:wrap =
+type =3D=20
+"topandbottom"></w:wrap></v:group><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout'>
+ <table cellpadding=3D0 cellspacing=3D0>
+  <tr>
+   <td width=3D11 height=3D0></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img width=3D605 height=3D132 src=3D"Algoritm.files/image010.gif" =
+v:shapes=3D"_x0000_s1084 _x0000_s1086 _x0000_s1087 _x0000_s1088 =
+_x0000_s1089 _x0000_s1090 _x0000_s1091 _x0000_s1092 _x0000_s1093 =
+_x0000_s1094 _x0000_s1095 _x0000_s1096 _x0000_s1097 _x0000_s1098 =
+_x0000_s1099 _x0000_s1100 _x0000_s1101 _x0000_s1102 _x0000_s1103 =
+_x0000_s1104 _x0000_s1105 _x0000_s1106 _x0000_s1107 _x0000_s1108 =
+_x0000_s1109 _x0000_s1110 _x0000_s1111 _x0000_s1112 _x0000_s1113 =
+_x0000_s1114 _x0000_s1115 _x0000_s1116 _x0000_s1117 _x0000_s1118 =
+_x0000_s1119 _x0000_s1120 _x0000_s1121 _x0000_s1122 _x0000_s1123 =
+_x0000_s1124 _x0000_s1125"></td>
+  </tr>
+ </table>
+ </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><BR=20
+style=3D"mso-ignore: vglayout" clear=3Dall><SPAN style=3D"FONT-SIZE: =
+12pt">=CF=F0=E8=EC=E5=F0=FB=20
+=E8=F1=EF=EE=EB=FC=E7=EE=E2=E0=ED=E8=FF =F1=E8=EC=E2=EE=EB=EE=E2 =
+"=C3=F0=E0=ED=E8=F6=FB =F6=E8=EA=EB=E0".<o:p></o:p></SPAN></P>
+<P class=3DMsoNormal style=3D"mso-hyphenate: none; =
+mso-layout-grid-align: none"><!--[if gte vml 1]><o:wrapblock><v:group=20
+id=3D_x0000_s1034=20
+style=3D"MARGIN-TOP: 0px; Z-INDEX: 4; MARGIN-LEFT: 7.3pt; WIDTH: 326pt; =
+POSITION: absolute; HEIGHT: 141.75pt"=20
+coordsize =3D "6520,2835" coordorigin =3D "1564,6339" o:allowincell =3D =
+"f"><v:rect=20
+id=3D_x0000_s1035=20
+style=3D"LEFT: 1564px; WIDTH: 6520px; POSITION: absolute; TOP: 6339px; =
+HEIGHT: 2835px"=20
+coordsize =3D "21600,21600" filled =3D "f" stroked =3D =
+"f"></v:rect><v:group=20
+id=3D_x0000_s1036=20
+style=3D"LEFT: 1701px; WIDTH: 2280px; POSITION: absolute; TOP: 6475px; =
+HEIGHT: 2596px"=20
+coordsize =3D "2280,2596" coordorigin =3D "1701,6475"><v:group =
+id=3D_x0000_s1037=20
+style=3D"LEFT: 1713px; WIDTH: 2268px; POSITION: absolute; TOP: 8326px; =
+HEIGHT: 567px"=20
+coordsize =3D "2268,567" coordorigin =3D "1418,8222"><v:shape =
+id=3D_x0000_s1038=20
+style=3D"LEFT: 1590px; WIDTH: 1928px; POSITION: absolute; TOP: 8239px; =
+HEIGHT: 510px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 6.093pt; LEFT: auto; MARGIN-LEFT: 0.062pt; WIDTH: =
+96.406pt; TOP: auto; HEIGHT: 19.843pt; mso-next-textbox: #_x0000_s1038"=20
+inset =3D "0,2mm,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=C8=EC=FF=20
+      =F6=E8=EA=EB=E0</P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:group =
+
+id=3D_x0000_s1039=20
+style=3D"LEFT: 1418px; WIDTH: 2268px; POSITION: absolute; TOP: 8222px; =
+HEIGHT: 567px; flip: y"=20
+coordsize =3D "2825,567" coordorigin =3D "2301,9372"><v:line =
+id=3D_x0000_s1040=20
+style=3D"POSITION: absolute" from =3D "2305,9936" to =3D "5123,9937" =
+strokeweight =3D=20
+"1pt"></v:line><v:line id=3D_x0000_s1041 style=3D"POSITION: absolute" =
+from =3D=20
+"5117,9608" to =3D "5117,9939" strokeweight =3D "1pt"></v:line><v:line=20
+id=3D_x0000_s1042 style=3D"POSITION: absolute" from =3D "2303,9608" to =
+=3D "2303,9939"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1043 =
+style=3D"POSITION: absolute"=20
+from =3D "2541,9372" to =3D "4918,9372" strokeweight =3D =
+"1pt"></v:line><v:line=20
+id=3D_x0000_s1044 style=3D"POSITION: absolute" from =3D "4899,9389" to =
+=3D "5126,9610"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1045=20
+style=3D"POSITION: absolute; flip: x" from =3D "2301,9389" to =3D =
+"2528,9610"=20
+strokeweight =3D "1pt"></v:line></v:group></v:group><v:group =
+id=3D_x0000_s1046=20
+style=3D"LEFT: 1713px; WIDTH: 2268px; POSITION: absolute; TOP: 6644px; =
+HEIGHT: 567px"=20
+coordsize =3D "2268,567" coordorigin =3D "1418,6424"><v:shape =
+id=3D_x0000_s1047=20
+style=3D"LEFT: 1581px; WIDTH: 1928px; POSITION: absolute; TOP: 6458px; =
+HEIGHT: 510px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.437pt; LEFT: auto; MARGIN-LEFT: 0.375pt; WIDTH: =
+96.406pt; TOP: auto; HEIGHT: 25.5pt; mso-next-textbox: #_x0000_s1047"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=C8=EC=FF =F6=E8=EA=EB=E0,</P>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=F3=F1=EB=EE=E2=E8=E5=20
+      =E2=FB=EF=EE=EB=ED=E5=ED=E8=FF</P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:group =
+
+id=3D_x0000_s1048=20
+style=3D"LEFT: 1418px; WIDTH: 2268px; POSITION: absolute; TOP: 6424px; =
+HEIGHT: 567px"=20
+coordsize =3D "2825,567" coordorigin =3D "2301,9372"><v:line =
+id=3D_x0000_s1049=20
+style=3D"POSITION: absolute" from =3D "2305,9936" to =3D "5123,9937" =
+strokeweight =3D=20
+"1pt"></v:line><v:line id=3D_x0000_s1050 style=3D"POSITION: absolute" =
+from =3D=20
+"5117,9608" to =3D "5117,9939" strokeweight =3D "1pt"></v:line><v:line=20
+id=3D_x0000_s1051 style=3D"POSITION: absolute" from =3D "2303,9608" to =
+=3D "2303,9939"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1052 =
+style=3D"POSITION: absolute"=20
+from =3D "2541,9372" to =3D "4918,9372" strokeweight =3D =
+"1pt"></v:line><v:line=20
+id=3D_x0000_s1053 style=3D"POSITION: absolute" from =3D "4899,9389" to =
+=3D "5126,9610"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1054=20
+style=3D"POSITION: absolute; flip: x" from =3D "2301,9389" to =3D =
+"2528,9610"=20
+strokeweight =3D "1pt"></v:line></v:group></v:group><v:shape =
+id=3D_x0000_s1055=20
+style=3D"LEFT: 1701px; WIDTH: 2268px; POSITION: absolute; TOP: 7485px; =
+HEIGHT: 567px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+strokeweight =3D=20
+"1pt"><v:textbox=20
+style=3D"MARGIN-TOP: 7.187pt; LEFT: auto; MARGIN-LEFT: 1.125pt; WIDTH: =
+112.406pt; TOP: auto; HEIGHT: 21.687pt; mso-next-textbox: #_x0000_s1055" =
+
+inset =3D "0,2mm,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center"=20
+      align=3Dcenter>=CF=F0=EE=F6=E5=F1=F1</P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:line=20
+id=3D_x0000_s1056 style=3D"POSITION: absolute" from =3D "2849,7221" to =
+=3D "2849,7504"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1057 =
+style=3D"POSITION: absolute"=20
+from =3D "2850,8061" to =3D "2850,8344" strokeweight =3D =
+"1pt"></v:line><v:line=20
+id=3D_x0000_s1058 style=3D"POSITION: absolute" from =3D "2853,8901" to =
+=3D "2853,9071"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1059 =
+style=3D"POSITION: absolute"=20
+from =3D "2850,6475" to =3D "2850,6645" strokeweight =3D=20
+"1pt"></v:line></v:group><v:group id=3D_x0000_s1060=20
+style=3D"LEFT: 5678px; WIDTH: 2281px; POSITION: absolute; TOP: 6475px; =
+HEIGHT: 2589px"=20
+coordsize =3D "2281,2589" coordorigin =3D "5678,6475"><v:group =
+id=3D_x0000_s1061=20
+style=3D"LEFT: 5691px; WIDTH: 2268px; POSITION: absolute; TOP: 8327px; =
+HEIGHT: 567px"=20
+coordsize =3D "2268,567" coordorigin =3D "8541,8104"><v:shape =
+id=3D_x0000_s1062=20
+style=3D"LEFT: 8695px; WIDTH: 1928px; POSITION: absolute; TOP: 8142px; =
+HEIGHT: 510px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 0.031pt; LEFT: auto; MARGIN-LEFT: 0.062pt; WIDTH: =
+96.406pt; TOP: auto; HEIGHT: 25.5pt; mso-next-textbox: #_x0000_s1062"=20
+inset =3D "0,0,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=C8=EC=FF =F6=E8=EA=EB=E0,</P>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=F3=F1=EB=EE=E2=E8=E5=20
+      =E7=E0=E2=E5=F0=F8=E5=ED=E8=FF</P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:group =
+
+id=3D_x0000_s1063=20
+style=3D"LEFT: 8541px; WIDTH: 2268px; POSITION: absolute; TOP: 8104px; =
+HEIGHT: 567px; flip: y"=20
+coordsize =3D "2825,567" coordorigin =3D "2301,9372"><v:line =
+id=3D_x0000_s1064=20
+style=3D"POSITION: absolute" from =3D "2305,9936" to =3D "5123,9937" =
+strokeweight =3D=20
+"1pt"></v:line><v:line id=3D_x0000_s1065 style=3D"POSITION: absolute" =
+from =3D=20
+"5117,9608" to =3D "5117,9939" strokeweight =3D "1pt"></v:line><v:line=20
+id=3D_x0000_s1066 style=3D"POSITION: absolute" from =3D "2303,9608" to =
+=3D "2303,9939"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1067 =
+style=3D"POSITION: absolute"=20
+from =3D "2541,9372" to =3D "4918,9372" strokeweight =3D =
+"1pt"></v:line><v:line=20
+id=3D_x0000_s1068 style=3D"POSITION: absolute" from =3D "4899,9389" to =
+=3D "5126,9610"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1069=20
+style=3D"POSITION: absolute; flip: x" from =3D "2301,9389" to =3D =
+"2528,9610"=20
+strokeweight =3D "1pt"></v:line></v:group></v:group><v:group =
+id=3D_x0000_s1070=20
+style=3D"LEFT: 5681px; WIDTH: 2268px; POSITION: absolute; TOP: 6644px; =
+HEIGHT: 567px"=20
+coordsize =3D "2268,567" coordorigin =3D "8541,6664"><v:shape =
+id=3D_x0000_s1071=20
+style=3D"LEFT: 8705px; WIDTH: 1928px; POSITION: absolute; TOP: 6682px; =
+HEIGHT: 510px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+stroked =3D=20
+"f"><v:textbox=20
+style=3D"MARGIN-TOP: 6.031pt; LEFT: auto; MARGIN-LEFT: 0.062pt; WIDTH: =
+96.406pt; TOP: auto; HEIGHT: 19.843pt; mso-next-textbox: #_x0000_s1071"=20
+inset =3D "0,2mm,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center" =
+align=3Dcenter>=C8=EC=FF=20
+      =F6=E8=EA=EB=E0</P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:group =
+
+id=3D_x0000_s1072=20
+style=3D"LEFT: 8541px; WIDTH: 2268px; POSITION: absolute; TOP: 6664px; =
+HEIGHT: 567px"=20
+coordsize =3D "2825,567" coordorigin =3D "2301,9372"><v:line =
+id=3D_x0000_s1073=20
+style=3D"POSITION: absolute" from =3D "2305,9936" to =3D "5123,9937" =
+strokeweight =3D=20
+"1pt"></v:line><v:line id=3D_x0000_s1074 style=3D"POSITION: absolute" =
+from =3D=20
+"5117,9608" to =3D "5117,9939" strokeweight =3D "1pt"></v:line><v:line=20
+id=3D_x0000_s1075 style=3D"POSITION: absolute" from =3D "2303,9608" to =
+=3D "2303,9939"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1076 =
+style=3D"POSITION: absolute"=20
+from =3D "2541,9372" to =3D "4918,9372" strokeweight =3D =
+"1pt"></v:line><v:line=20
+id=3D_x0000_s1077 style=3D"POSITION: absolute" from =3D "4899,9389" to =
+=3D "5126,9610"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1078=20
+style=3D"POSITION: absolute; flip: x" from =3D "2301,9389" to =3D =
+"2528,9610"=20
+strokeweight =3D "1pt"></v:line></v:group></v:group><v:shape =
+id=3D_x0000_s1079=20
+style=3D"LEFT: 5678px; WIDTH: 2268px; POSITION: absolute; TOP: 7486px; =
+HEIGHT: 567px"=20
+type =3D "#_x0000_t202" coordsize =3D "21600,21600" filled =3D "f" =
+strokeweight =3D=20
+"1pt"><v:textbox=20
+style=3D"MARGIN-TOP: 7.25pt; LEFT: auto; MARGIN-LEFT: 1.218pt; WIDTH: =
+112.406pt; TOP: auto; HEIGHT: 21.687pt; mso-next-textbox: #_x0000_s1079" =
+
+inset =3D "0,2mm,0,0"><![if !mso]>
+<TABLE cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD><![endif]>
+      <DIV>
+      <P class=3DMsoNormal style=3D"TEXT-ALIGN: center"=20
+      align=3Dcenter>=CF=F0=EE=F6=E5=F1=F1</P></DIV><![if =
+!mso]></TD></TR></TBODY></TABLE><![endif]></v:textbox></v:shape><v:line=20
+id=3D_x0000_s1080 style=3D"POSITION: absolute" from =3D "6827,7221" to =
+=3D "6827,7504"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1081 =
+style=3D"POSITION: absolute"=20
+from =3D "6827,8061" to =3D "6827,8344" strokeweight =3D =
+"1pt"></v:line><v:line=20
+id=3D_x0000_s1082 style=3D"POSITION: absolute" from =3D "6827,6475" to =
+=3D "6827,6645"=20
+strokeweight =3D "1pt"></v:line><v:line id=3D_x0000_s1083 =
+style=3D"POSITION: absolute"=20
+from =3D "6827,8894" to =3D "6827,9064" strokeweight =3D=20
+"1pt"></v:line></v:group><w:wrap type =3D=20
+"topandbottom"></w:wrap><w:anchorlock></w:anchorlock></v:group><![endif]-=
+-><![if !vml]><span style=3D'mso-ignore:vglayout'>
+ <table cellpadding=3D0 cellspacing=3D0 align=3Dleft>
+  <tr>
+   <td width=3D10 height=3D0></td>
+  </tr>
+  <tr>
+   <td></td>
+   <td><img width=3D434 height=3D189 src=3D"Algoritm.files/image011.gif" =
+v:shapes=3D"_x0000_s1034 _x0000_s1036 _x0000_s1037 _x0000_s1038 =
+_x0000_s1039 _x0000_s1040 _x0000_s1041 _x0000_s1042 _x0000_s1043 =
+_x0000_s1044 _x0000_s1045 _x0000_s1046 _x0000_s1047 _x0000_s1048 =
+_x0000_s1049 _x0000_s1050 _x0000_s1051 _x0000_s1052 _x0000_s1053 =
+_x0000_s1054 _x0000_s1055 _x0000_s1056 _x0000_s1057 _x0000_s1058 =
+_x0000_s1059 _x0000_s1060 _x0000_s1061 _x0000_s1062 _x0000_s1063 =
+_x0000_s1064 _x0000_s1065 _x0000_s1066 _x0000_s1067 _x0000_s1068 =
+_x0000_s1069 _x0000_s1070 _x0000_s1071 _x0000_s1072 _x0000_s1073 =
+_x0000_s1074 _x0000_s1075 _x0000_s1076 _x0000_s1077 _x0000_s1078 =
+_x0000_s1079 _x0000_s1080 _x0000_s1081 _x0000_s1082 _x0000_s1083"></td>
+  </tr>
+ </table>
+ </span><![endif]><!--[if gte vml 1]></o:wrapblock><![endif]--><BR=20
+style=3D"mso-ignore: vglayout" clear=3Dall><SPAN=20
+style=3D"FONT-SIZE: 12pt"><o:p></o:p></SPAN></P></DIV><!-- ><!-- "><!-- =
+'><!-- --></TEXTAREA></FORM></TITLE></COMMENT></A>
+<DIV></DIV></SPAN></ILAYER></LAYER></IFRAME></NOFRAMES></STYLE></NOSCRIPT=
+></TABLE></SCRIPT></APPLET></FONT>
+<STYLE>#bn {
+	DISPLAY: block
+}
+#bt {
+	DISPLAY: block
+}
+</STYLE>
+
+<SCRIPT language=3DJavaScript =
+src=3D"http://bs.yandex.ru/show/163"></SCRIPT>
+<!-- mailto:spm111@yandex.ru --></BODY></HTML>
+
+------=_NextPart_000_0067_01C664A8.94F3D950
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Location: http://bs.yandex.ru/show/163
+
+R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==
+
+------=_NextPart_000_0067_01C664A8.94F3D950--

@@ -1,0 +1,33 @@
+Files in archive file TESTPRGS.ZIP for version 1.5 of BP 7.0 RTL replacement:
+
+DHRYSTON PAS   R. Weicker's standard benchmark for integer performance
+WHETSTON PAS   B. Wichmann's standard benchmark for floating-point performance
+WHETST87 PAS   same as above, but for use with a coprocessor
+LLL      PAS   Lawrence Livermore Kernels to measure fp performance (copro!)
+DSIN     PAS   Sine / cosine test program from Cody&Waite's ELEFUNT test suite
+DATAN    PAS   ArcTan test program from Cody&Waite's ELEFUNT test suite
+DEXP     PAS   Exp test program from Cody&Waite's ELEFUNT test suite
+DLOG     PAS   Ln / Log10 test program from Cody&Waite's ELEFUNT test suite
+DSQRT    PAS   Sqrt test program from Cody&Waite's ELEFUNT test suite
+DPOWER   PAS   Power test program from Cody&Waite's ELEFUNT test suite
+POWER    PAS   Function that computes X**Y, needed by above ELEFUNT test progs
+PARANOIA PAS   Kahan's test program for floating-point arithmetic quality
+MAINVARS PAS   Unit needed by PARANOIA
+UNIT1    PAS   Unit needed by PARANOIA
+UNIT2    PAS   Unit needed by PARANOIA
+MACHARIT PAS   Routine to determine parameters of machine arithmetic (ELEFUNT)
+ARITEST  PAS   Timing of REAL and LONGINT operations
+STRTEST  PAS   String compatibility and benchmark test
+HEAPTEST PAS   Heap operations compatibility and benchmark test
+LONGBN2  PAS   Timing and correctness of LONGINT arithmetic
+SETTEST  PAS   Test implementation and timing of set operations
+FUN1_TST PAS   Tests basic functions of REAL arith. against coprocessor/emulator
+FUN1_TP6 PAS   Unit needed by FUN1_TST
+ULPERR   PAS   Test of REAL arith. transcendentals functions using math copro
+ROUNDTST PAS   Checks correct range and rounding for Trunc/Round functions
+BUG87    PAS   Demo program for denormal exception bug in original BP 7.0 RTL
+INFBUG   PAS   Demo program for INF printing bug in original BP 7.0 RTL
+DENORMTS PAS   Demo program for EXTENDED denormals printing bug in BP 7.0 RTL
+TIME     PAS   defines timer with millisecond resolution for timing purposes
+PACKING  LST   this file
+
