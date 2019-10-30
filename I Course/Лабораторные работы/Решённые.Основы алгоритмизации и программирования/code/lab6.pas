@@ -2,7 +2,7 @@ type
   arr = array [,] of integer;
 
 var
-  h, xn, xk, y,  n, k, m: single ;
+  h, xn, xk, y,  n, k, m: single;
   a, b, c: integer;
   d, t, l: arr;
 
@@ -22,7 +22,7 @@ end;
 
 function Factorial(N: integer): int64;
 begin
-  if n<=1 then Factorial:=1 else Factorial:=Factorial(N-1)*N
+  if n <= 1 then Factorial := 1 else Factorial := Factorial(N - 1) * N
 end;
 
 
@@ -47,19 +47,19 @@ begin
   writeln('Введите xn, xk, h: ');
   readln(xn, xk, h);
   writeln('Массив D');
-  d:= fillArr(10,6);
+  d := fillArr(10, 6);
   writeln('Массив T');
-  t:= fillArr(8, 7);
+  t := fillArr(8, 7);
   writeln('Массив L');
-  l:= fillArr(12, 10);
-  sr_and_count(d,10,6,a,n);
-  sr_and_count(t,8,7,b,k);
-  sr_and_count(l,12,10,c,m);
+  l := fillArr(12, 10);
+  sr_and_count(d, 10, 6, a, n);
+  sr_and_count(t, 8, 7, b, k);
+  sr_and_count(l, 12, 10, c, m);
   while xn <= xk do
   begin
-    write('x:=',xn, '   ');
-    y:=(Factorial(a)*power(xn,n)+ Factorial(a+b)*power(xn,k))/Factorial(a*c)*power(xn,m);
-    writeln('y:=',y);
-    xn+=h;
+    write('x:=', xn, '   ');
+    y := (Factorial(a) * power(xn, n) + Factorial(a + b) * power(xn, k)) / Factorial(a * c) * power(xn, m);
+    writeln('y:=', y);
+    xn += h;
   end;  
 end.
