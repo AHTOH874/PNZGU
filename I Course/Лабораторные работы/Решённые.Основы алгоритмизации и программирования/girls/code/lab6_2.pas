@@ -15,20 +15,18 @@ begin
   begin
     for j := 0 to m - 1 do 
     begin
-      if (arra[j, i] <> 0) then   // <> - неравно, !!обрати внимание к какому элементу обращаемся!! 
-                                  // мы поменяли строки со столбцами, чтобы цикл шёл по столбцу
-        sum := sum + abs(arra[j, i]) // abs() - модуль или абсолютное число
+      if (arra[j, i] <> 0) then   
+        sum := sum + abs(arra[j, i]) 
       else 
-        isNonNull := False; // показываем, что в столбе есть ноль
-      
-      if (j = m - 1) and isNonNull then // проверка что строка послдняя и нет нулей 
+        isNonNull := False; 
+      if (j = m - 1) and isNonNull then 
       begin
         d := d + 1;
         t := t + sum;
         sum := 0;
       end;
     end;
-    isNonNull := True;  
+    isNonNull := True;
   end;
 end;
 
@@ -37,8 +35,7 @@ var
   i, j: integer;
 begin
   randomize;
-  setLength(Result, n, m); // Выделяем память для массива, 
-                           // аналог Result: array [1..n, 1..m] of integer
+  setLength(Result, n, m); 
   for i := 0 to n - 1 do 
   begin
     for j := 0 to m - 1 do 
@@ -52,11 +49,11 @@ end;
 
 begin
   writeln('Массив А:');
-  a := fillArr(8, 6);  // записываем зн-ие фун-ии в переменную
+  a := fillArr(8, 6);  
   calc(a, 6, 8, d1, t1);
   writeln('Массив B:');
   b := fillArr(12, 8);
   calc(b, 8, 12, d2, t2);
-  x := ln(d2 / t2 / exp(d1 / t1)); // Если решить уравнение,то получится такое выражение
+  x := ln(d2/ t1)*t2/d1; 
   writeln('Корень уравнения ',x);
 end.
