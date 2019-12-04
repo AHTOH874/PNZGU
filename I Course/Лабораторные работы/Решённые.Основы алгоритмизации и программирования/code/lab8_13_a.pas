@@ -4,29 +4,57 @@ const
   glasn = ['а', 'е', 'и', 'о', 'у', 'ы', 'э', 'ю', 'я'];
 
 var
-  count_array: array [1..9] of integer;
-  N, posit: integer;
-  da,glasnii,str: string;
-  
+  N: integer;
+  ch, delim: char;
+  da, glasnii, str: string;
   arra: array of string;
 
+function uniq(str: string; skip: boolean): string;
+var
+  len, i, j: integer;
+  newWord: boolean;
 begin
-  glasnii:='аеиоуыэюя';
+  len := length(str);
+  for i := 1 to len do
+  begin
+    newWord := true;
+    for j := 1 to len do
+      if str[i] = str[j] then
+      begin
+        if (i = j) and skip then continue
+        else if (i = j) and not skip then break
+        else
+        begin
+          newWord := false;
+          break;
+        end;
+      end;
+    if newWord then Result += str[i];
+  end;
+end;
+
+begin
   writeln('Введите слова:');
   readln(str);
   arra := str.Remove('.').split(',');
-  for var i := 0 to Length(arra)-1 do 
+  str := '';
+  for var i := 0 to Length(arra) - 1 do 
   begin
-    writeln(Length(arra));
-    for var k:=1 to arra[i].Length do 
+    for var k := 1 to arra[i].Length do
     begin
-      if arra[i][k] in glasn then 
-      begin
-        posit:=Pos(arra[i][k],glasnii);
-        if count_array[posit] 
-      end
+      if arra[i][k] in glasn then da += arra[i][k];
     end;
-    da+=',';
+    str += uniq(da, false);
+    da := ''
   end;
-  writeln(da);
+  str := uniq(str, true);
+  N := length(str);
+  for var i := 1 to N - 1 do 
+    for var j := 1 to N - i do
+      if str[j] > str[j + 1] then begin
+        ch := str[j];
+        str[j] := str[j + 1];
+        str[j + 1] := ch;
+      end;
+  writeln(str);
 end.
