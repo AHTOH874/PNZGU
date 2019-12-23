@@ -1,7 +1,4 @@
 ﻿program lab18_a;
-//
-//const
-//  sogls = ['a'..'z'];
 
 var
   N: integer;
@@ -39,13 +36,7 @@ begin
   begin 
     write('Введите строку: ');
     readln(arra[i]);
-    arra[i] := arra[i].Remove('.');
-    for var k := 1 to arra[i].Length do 
-    begin
-      output += uniq(arra[i][k]);
-    end;
-    arra[i] := uniq(output);
-    output:='';
+    arra[i] := uniq(arra[i].Remove('.'));
   end;
   writeln();
   writeln('Новый вариант строк:');

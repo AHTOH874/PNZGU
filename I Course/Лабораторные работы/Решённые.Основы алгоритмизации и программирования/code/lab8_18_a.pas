@@ -35,7 +35,7 @@ begin
   str := str.Remove('.');
   for var i := 1 to str.Length do 
   begin
-    if str[i] in sogls then output += uniq(str[i]);
+    if str[i] in sogls then output += str[i];
   end;
   output := uniq(output);
   writeln(output);
