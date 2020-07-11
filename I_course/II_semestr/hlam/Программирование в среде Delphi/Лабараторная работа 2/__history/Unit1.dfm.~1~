@@ -1,0 +1,63 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, jpeg, ExtCtrls;
+
+type
+  TForm1 = class(TForm)
+    Label1: TLabel;
+    Image1: TImage;
+    Label2: TLabel;
+    Edit1: TEdit;
+    Label3: TLabel;
+    Edit2: TEdit;
+    Label4: TLabel;
+    Edit3: TEdit;
+    Button1: TButton;
+    Memo1: TMemo;
+    Image2: TImage;
+    Label5: TLabel;
+    Label6: TLabel;
+    Edit4: TEdit;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+a,b,c,d,e,f:real;
+s1,s2:string[40];
+code: integer;
+begin
+val(Edit1.text,a,code);
+val(Edit2.Text,b,code);
+val(edit3.Text,c,code);
+val(edit4.Text,e,code);
+d:=a+b;
+d:= d*pi*c;
+str(d:6:6,s1);
+f:=a*a+a*b+b*b;
+f:=(f*pi*e)/3;
+str(f:6:6,s2);
+
+Memo1.Lines.Add('S = '+s1);
+Memo1.Lines.Add('V = '+s2);
+
+
+
+end;
+
+end.

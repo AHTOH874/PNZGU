@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="E:\lazarus\fpc\3.0.4\bin\x86_64-win64\fpc.exe" Date="1331391477"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -WG -l -vewnhibq &quot;-FiF:\LEARNING\I Course\2 семестр\visual\solve\task7\lib\x86_64-win64&quot; -FuE:\lazarus\components\tachart\lib\x86_64-win64\win32 -FuE:\lazarus\components\ideintf\units\x86_64-win64\win32 -FuE:\lazarus\components\lazcontrols\lib\x86_64-win64\win32 -FuE:\lazarus\lcl\units\x86_64-win64\win32 -FuE:\lazarus\lcl\units\x86_64-win64 -FuE:\lazarus\components\lazutils\lib\x86_64-win64 -FuE:\lazarus\packager\units\x86_64-win64 &quot;-FuF:\LEARNING\I Course\2 семестр\visual\solve\task7\&quot; &quot;-FUF:\LEARNING\I Course\2 семестр\visual\solve\task7\lib\x86_64-win64\&quot; &quot;-FEF:\LEARNING\I Course\2 семестр\visual\solve\task7\&quot; &quot;-oF:\LEARNING\I Course\2 семестр\visual\solve\task7\project1.exe&quot; -dLCL -dLCLwin32 project1.lpr"/>
+</CONFIG>

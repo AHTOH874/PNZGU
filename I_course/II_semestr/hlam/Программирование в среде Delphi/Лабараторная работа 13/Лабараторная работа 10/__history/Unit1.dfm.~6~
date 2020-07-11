@@ -1,0 +1,96 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 540
+  ClientWidth = 922
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  OnCreate = FormCreate
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 112
+    Top = 43
+    Width = 105
+    Height = 13
+    Caption = #1050#1086#1083#1080#1095#1077#1089#1074#1090#1086' '#1090#1086#1074#1072#1088#1086#1074
+  end
+  object StringGrid1: TStringGrid
+    Left = 24
+    Top = 88
+    Width = 553
+    Height = 297
+    TabOrder = 0
+  end
+  object Button1: TButton
+    Left = 24
+    Top = 408
+    Width = 129
+    Height = 25
+    Caption = #1047#1072#1087#1086#1083#1085#1077#1085#1080#1077' '#1090#1072#1073#1083#1080#1094#1099
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 24
+    Top = 455
+    Width = 129
+    Height = 25
+    Caption = #1055#1086#1080#1089#1082' '#1090#1086#1074#1072#1088#1086#1074
+    TabOrder = 2
+  end
+  object Button3: TButton
+    Left = 176
+    Top = 408
+    Width = 137
+    Height = 25
+    Caption = #1055#1086#1076#1089#1095#1077#1090' '#1086#1073#1098#1077#1084#1072' '#1087#1088#1086#1076#1072#1078
+    TabOrder = 3
+  end
+  object Button4: TButton
+    Left = 176
+    Top = 455
+    Width = 137
+    Height = 25
+    Caption = #1040#1085#1072#1083#1080#1079' '#1087#1088#1086#1076#1072#1078
+    TabOrder = 4
+  end
+  object Button5: TButton
+    Left = 336
+    Top = 408
+    Width = 75
+    Height = 25
+    Caption = #1054#1095#1080#1089#1090#1080#1090#1100
+    TabOrder = 5
+  end
+  object Button6: TButton
+    Left = 336
+    Top = 455
+    Width = 75
+    Height = 25
+    Caption = #1042#1099#1093#1086#1076
+    TabOrder = 6
+  end
+  object Memo1: TMemo
+    Left = 617
+    Top = 88
+    Width = 185
+    Height = 297
+    TabOrder = 7
+  end
+  object SpinEdit1: TSpinEdit
+    Left = 232
+    Top = 40
+    Width = 121
+    Height = 22
+    MaxValue = 0
+    MinValue = 0
+    TabOrder = 8
+    Value = 0
+  end
+end

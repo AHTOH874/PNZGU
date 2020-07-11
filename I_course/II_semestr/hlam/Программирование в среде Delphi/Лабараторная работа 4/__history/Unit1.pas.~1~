@@ -1,0 +1,62 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, Grids;
+
+type
+  TForm1 = class(TForm)
+    Label1: TLabel;
+    Edit1: TEdit;
+    Edit2: TEdit;
+    Button1: TButton;
+    StringGrid1: TStringGrid;
+    procedure Button1Click(Sender: TObject);
+    procedure Edit1KeyPress(Sender: TObject; var Key: Char);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+
+
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+n,i:integer;
+a: array [1..100] of integer;
+
+begin
+n:=strtoint(Edit1.text);
+Stringgrid1.Visible:=true;
+Stringgrid1.Colcount:=n;
+if n<> 0 then begin
+Randomize;
+for i := 0 to n - 1 do begin
+a[i]:=random(50)-19;
+stringgrid1.cells[i,0]:= inttostr(a[i]);
+end;
+end;
+if n=0 then
+Messagedlg('¬ведите другое значение',mtinformation,mbokcancel,1);
+
+
+end;
+
+procedure TForm1.Edit1KeyPress(Sender: TObject; var Key: Char);
+begin
+if not  (Key in ['0'..'9',#8]) then Key:=#0;
+end;
+
+
+end.

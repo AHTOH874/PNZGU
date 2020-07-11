@@ -1,0 +1,59 @@
+object Form1: TForm1
+  Left = 280
+  Height = 279
+  Top = 175
+  Width = 321
+  Caption = 'Построение графика'
+  ClientHeight = 279
+  ClientWidth = 321
+  OnCreate = FormCreate
+  LCLVersion = '2.0.6.0'
+  object Chart1: TChart
+    Left = 8
+    Height = 200
+    Top = 8
+    Width = 304
+    AxisList = <    
+      item
+        Marks.LabelBrush.Style = bsClear
+        Minors = <>
+        Title.LabelFont.Orientation = 900
+        Title.LabelBrush.Style = bsClear
+      end    
+      item
+        Alignment = calBottom
+        Marks.LabelBrush.Style = bsClear
+        Minors = <>
+        Title.LabelBrush.Style = bsClear
+      end>
+    Foot.Brush.Color = clBtnFace
+    Foot.Font.Color = clBlue
+    Legend.Visible = True
+    Title.Brush.Color = clBtnFace
+    Title.Font.Color = clBlue
+    Title.Text.Strings = (
+      'TAChart'
+    )
+    object Chart1LineSeries1: TLineSeries
+      Title = 'F1'
+      LinePen.Color = clRed
+      Pointer.Visible = True
+      ShowPoints = True
+    end
+    object Chart1LineSeries2: TLineSeries
+      Title = 'F2'
+      LinePen.Color = clLime
+      Pointer.Visible = True
+      ShowPoints = True
+    end
+  end
+  object Button1: TButton
+    Left = 88
+    Height = 26
+    Top = 224
+    Width = 131
+    Caption = 'Построить график'
+    OnClick = Button1Click
+    TabOrder = 1
+  end
+end

@@ -1,0 +1,115 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Grids, Vcl.StdCtrls, Vcl.ExtCtrls;
+
+type
+  TForm1 = class(TForm)
+    Label1: TLabel;
+    Button1: TButton;
+    Button2: TButton;
+    Button3: TButton;
+    Button4: TButton;
+    Button5: TButton;
+    Button6: TButton;
+    Button7: TButton;
+    Edit1: TEdit;
+    Label2: TLabel;
+    Label3: TLabel;
+    Edit2: TEdit;
+    Label4: TLabel;
+    Edit3: TEdit;
+    Label5: TLabel;
+    Label6: TLabel;
+    Label7: TLabel;
+    Edit4: TEdit;
+    Edit5: TEdit;
+    Label8: TLabel;
+    RadioGroup1: TRadioGroup;
+    StringGrid1: TStringGrid;
+    Memo1: TMemo;
+    ListBox1: TListBox;
+    procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+    procedure Button3Click(Sender: TObject);
+    procedure Button4Click(Sender: TObject);
+    procedure Button5Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+
+
+procedure TForm1.Button1Click(Sender: TObject);
+var x,y,n,c,m,code:integer;
+begin
+  m:=StrToInt(Edit4.Text); // Число столбцов
+  n:=StrToInt(Edit5.Text); // Число строк
+  StringGrid1.RowCount:=n;
+  StringGrid1.ColCount:=m;
+  for y:=0 to m-1 do
+  for x:=0 to n-1 do
+    StringGrid1.Cells[y,x]:=InputBox('Ввод числа','Введите число','0');
+    Val(stringGrid1.Cells[y,x],c,code); // Ввод числа в ячейку
+    Memo1.Lines.Add ('Нарисована таблица:'+IntToStr(n)+'x'+IntToStr(m));
+end;
+
+
+
+
+
+
+
+procedure TForm1.Button2Click(Sender: TObject);
+var m1,n1:integer;
+begin
+  m1:=StrToInt(Edit2.Text);
+  n1:=StrToInt(Edit3.Text);
+  ListBox1.Items.Add('Строка'+IntToStr(n1)+':'+'Столбец'+IntToStr(m1));
+Memo1.Lines.Add('Значение выбранной ячейки:'+StringGrid1.Cells[m1-1,n1-1]);
+end;
+
+procedure TForm1.Button3Click(Sender: TObject);
+var m1,n1,y,n,i:integer;
+begin
+  m1:=StrToInt(Edit1.Text);
+  n1:=StrToInt(Edit5.Text);
+   for i:=0 to n1 do
+     ListBox1.Items.Add(StringGrid1.Cells[m1-1,i]);
+    Memo1.Lines.Add('Выбрали столбец:'+IntToStr(m1));
+end;
+
+procedure TForm1.Button4Click(Sender: TObject);
+var m1,n1,i:integer;
+begin
+  m1:=StrToInt(Edit4.Text);
+  n1:=StrToInt(Edit1.Text);
+    for i:=0 to m1 do
+      ListBox1.Items.Add(StringGrid1.Cells[i,n1-1]);
+      Memo1.Lines.Add('Выбрали строку:'+IntToStr(n1));
+end;
+
+
+procedure TForm1.Button5Click(Sender: TObject);
+var m1,n1:integer;
+begin
+  m1:=StrToInt(Edit2.Text);
+  n1:=StrToInt(Edit3.Text);
+  ListBox1.Items.Add(StringGrid1.Cells[m1-1,n1-1]);
+  Memo1.Lines.Add('Прокрутка в позицию:'+IntToStr(m1)+':'+IntToStr(n1));
+end;
+
+
+end.

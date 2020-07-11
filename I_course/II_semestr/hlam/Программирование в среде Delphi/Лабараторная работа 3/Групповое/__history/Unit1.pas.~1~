@@ -1,0 +1,62 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, ExtCtrls;
+
+type
+  TForm1 = class(TForm)
+    CheckBox1: TCheckBox;
+    Label1: TLabel;
+    RadioButton1: TRadioButton;
+    RadioButton2: TRadioButton;
+    Label2: TLabel;
+    RadioGroup1: TRadioGroup;
+    Label3: TLabel;
+    procedure RadioGroup1Click(Sender: TObject);
+    procedure RadioButton2Click(Sender: TObject);
+    procedure RadioButton1Click(Sender: TObject);
+    procedure CheckBox1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.CheckBox1Click(Sender: TObject);
+begin
+  case CheckBox1.State of
+    cbUnchecked:label1.Caption:='Выключенно';
+    cbChecked: label1.caption:='Включенно' ;
+
+  end;
+end;
+
+procedure TForm1.RadioButton1Click(Sender: TObject);
+begin
+ if RadioButton1.Checked then label2.Caption:='включен первый' ;
+
+end;
+
+procedure TForm1.RadioButton2Click(Sender: TObject);
+begin
+      if RadioButton2.Checked then label2.Caption:='включен второй' ;
+end;
+
+procedure TForm1.RadioGroup1Click(Sender: TObject);
+begin
+    if Radiogroup1.itemindex >-1 then
+    label3.Caption:= 'Выбран '+Radiogroup1.Items[radiogroup1.itemindex]
+
+end;
+
+end.

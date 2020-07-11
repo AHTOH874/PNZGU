@@ -1,0 +1,177 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, Grids, StdCtrls, Spin, Buttons;
+
+type
+  TForm1 = class(TForm)
+    StringGrid1: TStringGrid;
+    BitBtn1: TBitBtn;
+    SpinEdit1: TSpinEdit;
+    Label1: TLabel;
+    BitBtn2: TBitBtn;
+    BitBtn3: TBitBtn;
+    BitBtn4: TBitBtn;
+    BitBtn5: TBitBtn;
+    Memo1: TMemo;
+    BitBtn6: TBitBtn;
+    procedure FormCreate(Sender: TObject);
+    procedure BitBtn1Click(Sender: TObject);
+    procedure BitBtn2Click(Sender: TObject);
+    procedure BitBtn3Click(Sender: TObject);
+    procedure BitBtn4Click(Sender: TObject);
+    procedure BitBtn5Click(Sender: TObject);
+    procedure BitBtn6Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  n:integer;
+  a:array[2..5,1..100] of real;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+StringGrid1.Cells[0,0]:='№ п/п';
+StringGrid1.ColWidths[0]:=40;
+StringGrid1.Cells[1,0]:='Наименование товара';
+StringGrid1.ColWidths[1]:=125;
+StringGrid1.Cells[2,0]:='I квартал';
+StringGrid1.ColWidths[2]:=60;
+StringGrid1.Cells[3,0]:='II квартал';
+StringGrid1.ColWidths[3]:=60;
+StringGrid1.Cells[4,0]:='III квартал';
+StringGrid1.ColWidths[4]:=60;
+StringGrid1.Cells[5,0]:='IY квартал';
+StringGrid1.ColWidths[5]:=60;
+end;
+
+procedure TForm1.BitBtn1Click(Sender: TObject);
+Var
+i,j,code:integer;
+s:string;
+begin
+n:=SpinEdit1.Value;
+StringGrid1.RowCount:=n+1;
+ for j:=1 to n do begin
+ StringGrid1.Cells[0,j]:=inttostr(j);
+ end;
+for j:=1 to n do
+StringGrid1.Cells[1,j]:=InputBox('Введите данные','Наименование товара','');
+for i:=2 to 5 do
+for j:=1 to n do begin
+      code:=1;
+      while code<>0 do begin
+        s:=inputbox(inttostr(i-1)+' квартал','Объем продаж '+Inttostr(j)+' товара','');
+        Val(s, a[i,j] ,code);
+        if code>0 then MessageDlg('Введите объём продаж',mtWarning,[mbOK],0)
+        else StringGrid1.Cells[i,j]:=floattostr(a[i,j]);
+      end;
+    end;
+end;
+
+procedure TForm1.BitBtn2Click(Sender: TObject);
+Var
+kek:integer;
+begin
+kek:=MessageDlg('Закрыть программу?',mtWarning,[mbYes,mbNo],0);
+if kek=mrYes then
+Close;
+end;
+
+procedure TForm1.BitBtn3Click(Sender: TObject);
+Var
+i,j:integer;
+sum,lol:real;
+begin
+StringGrid1.RowCount:=n+3;
+StringGrid1.Cells[1,n+1]:='Итоги за квартал:';
+sum:=0;
+lol:=0;
+for i:=2 to 5 do begin
+for j:=1 to n do begin
+sum:=sum+a[i,j];
+end;
+StringGrid1.Cells[i,n+1]:=floattostr(sum);
+lol:=lol+sum;
+sum:=0;
+end;
+StringGrid1.Cells[1,n+2]:='Итоги за год:';
+StringGrid1.Cells[2,n+2]:=floattostr(lol);
+end;
+procedure TForm1.BitBtn4Click(Sender: TObject);
+Var
+i,j:integer;
+imax,imin:integer;         //запоминаем номер квартала(столбца)
+max,min:real;
+sum:real;
+begin
+min:=MaxInt; //берёт максимальное значение переменной integer;
+max:=0;
+sum:=0;
+for i:=2 to 5 do begin
+for j:=1 to n do begin
+sum:=sum+a[i,j];
+end;
+if (min>sum) then begin
+min:=sum;
+imin:=i;
+end;
+if (max<sum) then begin
+max:=sum;
+imax:=i;
+end;
+sum:=0;
+end;
+ Memo1.Lines.Add('Наибольший объём продаж в '+inttostr(imax-1)+' квартале равен: '+floattostr(max)+' ед.');
+ Memo1.Lines.Add('Наименьший объём продаж в '+inttostr(imin-1)+' квартале равен: '+floattostr(min)+' ед.');
+end;
+
+
+procedure TForm1.BitBtn5Click(Sender: TObject);
+Var
+i,j:integer;
+sum,max:real;
+st:string;
+begin
+StringGrid1.ColCount:=7;
+StringGrid1.Cells[6,0]:='Кол-во продаж';
+sum:=0;
+max:=0;
+for j:=1 to n do begin
+for i:=2 to 5 do begin
+sum:=sum+a[i,j];
+end;
+StringGrid1.Cells[6,j]:=floattostr(sum);
+if (sum>max) then begin
+max:=sum;
+st:=StringGrid1.Cells[1,j];
+end;
+sum:=0;
+end;
+Memo1.Lines.Add('Сумма продаж наибольшая у '+st+' и равна '+floattostr(max));
+end;
+
+procedure TForm1.BitBtn6Click(Sender: TObject);
+Var
+i:integer;
+begin
+StringGrid1.ColCount:=6;
+Memo1.Clear;
+with StringGrid1 do
+  for i:=1 to RowCount-1 do
+    Rows[i].Clear;
+SpinEdit1.Value:=1;
+end;
+
+end.

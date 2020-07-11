@@ -1,0 +1,49 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.Grids;
+
+type
+  TForm1 = class(TForm)
+    Button1: TButton;
+    StringGrid1: TStringGrid;
+    Label1: TLabel;
+    Edit1: TEdit;
+    Label2: TLabel;
+    Label3: TLabel;
+    Edit2: TEdit;
+    Memo1: TMemo;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+var x,y,n,c,m,code:integer;
+begin
+  m:=6; // Число столбцов
+  n:=StrToInt(Edit2.Text); // Число строк
+  StringGrid1.RowCount:=n+1;
+  StringGrid1.ColCount:=m;
+  StringGrid1.Cells[1,1]:= '№ п/п';
+  for y:=0 to m-1 do
+  for x:=0 to n-1 do
+    StringGrid1.Cells[y,x]:=InputBox('Ввод числа','Введите число','0');
+    Val(stringGrid1.Cells[y,x],c,code); // Ввод числа в ячейку
+    Memo1.Lines.Add ('Нарисована таблица:'+IntToStr(n)+'x'+IntToStr(m));
+end;
+
+
+end.

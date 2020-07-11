@@ -1,0 +1,79 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls;
+
+type
+  TForm1 = class(TForm)
+    PaintBox1: TPaintBox;
+    RadioGroup1: TRadioGroup;
+    Button1: TButton;
+    procedure Button1Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+
+procedure TForm1.Button1Click(Sender: TObject);
+var
+x,y,rad: integer;
+begin
+with paintbox1 do begin
+  canvas.Pen.Width:=1;
+case RadioGroup1.ItemIndex of
+  0: begin refresh;
+  X:=Width div 2;
+  Y:=Height div 2;
+  rad:=50;
+  canvas.Pen.Style:=psdash;{Штриховая линия}
+  canvas.Pen.Color:=clWhite;{Цвет пера}
+  canvas.Pen.Width:=1;{Толщина пера}
+  canvas.Brush.Style:=bssolid;{Заполнение области круга}
+  canvas.Brush.Color:=clblue;{Цвет сплошного заполнения области}
+  canvas.Ellipse(X-rad,	Y-rad,		X+rad, Y+rad);
+  end;
+1: begin refresh;
+canvas.Pen.Style:=pssolid;
+canvas.Pen.Color:=clblack;
+canvas.Moveto(150,70);
+canvas.LineTo(200,150);
+canvas.LineTo(120,100);
+canvas.LineTo(150,70);
+end;
+2: begin refresh;
+  canvas.Pen.Style:=pssolid;{Сплошная линия}
+  canvas.Pen.Color:=clred;
+  canvas.Brush.Color:=clgreen;    //цвет заливка
+  canvas.Brush.Style:=bshorizontal; {Штриховка горизонтальными линиями}
+  canvas.Ellipse(10,0,169,80);
+end;
+3:  begin refresh;
+ canvas.Pen.Style:=pssolid;{Сплошная линия}
+  canvas.Pen.Color:=clblue;
+  canvas.Brush.Color:=clyellow;    //цвет заливка
+  canvas.Brush.Style:=bshorizontal;
+  canvas.Rectangle(70,50,170,150);
+  canvas.Brush.Color:=clwhite;    //цвет заливка
+  canvas.Brush.Style:=bssolid;
+  canvas.Rectangle(70,50,120,100);
+end;
+end;
+end;
+end;
+
+
+
+
+end.

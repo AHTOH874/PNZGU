@@ -1,0 +1,93 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 415
+  ClientWidth = 1017
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Label1: TLabel
+    Left = 120
+    Top = 24
+    Width = 161
+    Height = 13
+    Caption = #1042#1074#1077#1076#1080#1090#1077' '#1082#1086#1083#1080#1095#1077#1089#1090#1074#1086' '#1101#1083#1077#1084#1077#1085#1090#1086#1074
+  end
+  object Edit1: TEdit
+    Left = 304
+    Top = 21
+    Width = 105
+    Height = 21
+    TabOrder = 0
+    OnKeyPress = Edit1KeyPress
+  end
+  object Button1: TButton
+    Left = 208
+    Top = 56
+    Width = 137
+    Height = 25
+    Caption = #1057#1092#1086#1088#1084#1080#1088#1086#1074#1072#1090#1100' '#1084#1072#1089#1089#1080#1074
+    TabOrder = 1
+    OnClick = Button1Click
+  end
+  object StringGrid1: TStringGrid
+    Left = 120
+    Top = 103
+    Width = 289
+    Height = 114
+    ColCount = 100
+    FixedCols = 0
+    RowCount = 100
+    FixedRows = 0
+    Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing]
+    TabOrder = 2
+    Visible = False
+  end
+  object Button2: TButton
+    Left = 208
+    Top = 240
+    Width = 137
+    Height = 25
+    Caption = #1053#1086#1074#1099#1081' '#1084#1072#1089#1089#1080#1074
+    TabOrder = 3
+    OnClick = Button2Click
+  end
+  object StringGrid2: TStringGrid
+    Left = 120
+    Top = 287
+    Width = 320
+    Height = 120
+    ColCount = 100
+    FixedCols = 0
+    RowCount = 100
+    FixedRows = 0
+    Options = [goFixedVertLine, goFixedHorzLine, goVertLine, goHorzLine, goRangeSelect, goEditing]
+    TabOrder = 4
+    Visible = False
+  end
+  object Button3: TButton
+    Left = 480
+    Top = 56
+    Width = 75
+    Height = 25
+    Caption = #1054#1095#1080#1089#1090#1080#1090#1100
+    TabOrder = 5
+    OnClick = Button3Click
+  end
+  object Button4: TButton
+    Left = 600
+    Top = 56
+    Width = 75
+    Height = 25
+    Caption = #1047#1072#1082#1088#1099#1090#1100
+    TabOrder = 6
+    OnClick = Button4Click
+  end
+end

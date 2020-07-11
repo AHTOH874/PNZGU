@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2019.03.18 18:47:34.888.pas,C:\Users\Zver\Documents\Borland Studio Projects\Unit1.pas=C:\Users\Zver\Documents\Borland Studio Projects\Un_form.pas</Transaction>
+    <Transaction>2019.03.18 18:47:34.888.dfm,C:\Users\Zver\Documents\Borland Studio Projects\Unit1.dfm=C:\Users\Zver\Documents\Borland Studio Projects\Un_form.dfm</Transaction>
+    <Transaction>2019.03.18 18:47:42.758.pas,C:\Users\Zver\Documents\Borland Studio Projects\Unit3.pas=C:\Users\Zver\Documents\Borland Studio Projects\Unit2.pas</Transaction>
+    <Transaction>2019.03.18 18:55:14.390.pas,C:\Users\Zver\Documents\Borland Studio Projects\Unit2.pas=</Transaction>
+    <Transaction>2019.03.18 18:55:14.403.dfm,C:\Users\Zver\Documents\Borland Studio Projects\Unit2.dfm=</Transaction>
+    <Transaction>2019.03.18 18:58:01.345.pas,C:\Users\Zver\Documents\Borland Studio Projects\Unit1.pas=C:\Users\Zver\Documents\Borland Studio Projects\Unit2.pas</Transaction>
+    <Transaction>2019.03.18 19:03:56.752.pas,C:\Users\Zver\Documents\Borland Studio Projects\Unit2.pas=</Transaction>
+    <Transaction>2019.03.18 19:03:56.752.dfm,C:\Users\Zver\Documents\Borland Studio Projects\Unit2.dfm=</Transaction>
+    <Transaction>2019.03.18 19:12:19.497.pas,C:\Users\Zver\Documents\Borland Studio Projects\Un_form.pas=E:\2 семестр\Программирование в среде Delphi\Лабраторная работа 6\1\Un_form.pas</Transaction>
+    <Transaction>2019.03.18 19:12:19.497.dfm,C:\Users\Zver\Documents\Borland Studio Projects\Un_form.dfm=E:\2 семестр\Программирование в среде Delphi\Лабраторная работа 6\1\Un_form.dfm</Transaction>
+    <Transaction>2019.03.18 19:12:22.008.bdsproj,C:\Users\Zver\Documents\Borland Studio Projects\Project1.bdsproj=E:\2 семестр\Программирование в среде Delphi\Лабраторная работа 6\1\Project1.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

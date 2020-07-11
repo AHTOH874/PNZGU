@@ -1,0 +1,74 @@
+unit Unit1;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.Grids, Vcl.StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Button1: TButton;
+    StringGrid1: TStringGrid;
+    Button2: TButton;
+    Memo1: TMemo;
+    procedure Button1Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.Button1Click(Sender: TObject);
+var  m,n,x,y,c,code:integer;
+begin
+n:=StrToInt(InputBox('Ввод числа','Введите число','0')); // Число строк
+m:=6;
+StringGrid1.RowCount:=n+1;
+StringGrid1.ColCount:=m;
+StringGrid1.Cells[0,0]:='№ п/п';
+StringGrid1.Cells[1,0]:='Наименование товара';
+StringGrid1.Cells[2,0]:='1 квартал';
+StringGrid1.Cells[3,0]:='2 квартал';
+StringGrid1.Cells[4,0]:='3 квартал';
+StringGrid1.Cells[5,0]:='4 квартал';
+for x:=1 to n-1 do begin
+StringGrid1.Cells[0,x]:=inttostr(x);
+end;
+for x:=1 to n-1 do begin
+StringGrid1.Cells[1,x]:=Inputbox('Ввод названия','Введите название','Мясо');
+end;
+for y := 2 to m-1 do
+  for x:=1 to n-1 do
+    StringGrid1.Cells[y,x]:=Inputbox('Ввод число','Введите число','0');
+end;
+
+
+
+procedure TForm1.Button2Click(Sender: TObject);
+var
+y,x,n,m,sum,hel:integer;
+begin
+Sum:=0;
+n:=StringGrid1.RowCount-1;
+m:=6;
+for x:= 2 to n-1 do
+  for y:= 2 to m-1 do
+    hel:=strtoint(StringGrid1.Cells[x,y]);
+    sum:=hel+sum;
+    Memo1.Lines.Add ('Общее число продаж: '+inttostr(sum));
+  end;
+
+
+
+
+
+end.

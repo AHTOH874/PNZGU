@@ -1,0 +1,106 @@
+object Form1: TForm1
+  Left = 1196
+  Height = 290
+  Top = 177
+  Width = 509
+  Caption = 'Form1'
+  ClientHeight = 290
+  ClientWidth = 509
+  LCLVersion = '2.0.6.0'
+  object Edit1: TEdit
+    Left = 16
+    Height = 23
+    Top = 64
+    Width = 122
+    TabOrder = 0
+  end
+  object Label1: TLabel
+    Left = 16
+    Height = 15
+    Top = 40
+    Width = 151
+    Caption = 'Десятичная сис. счисления'
+    ParentColor = False
+  end
+  object Edit2: TEdit
+    Left = 328
+    Height = 23
+    Top = 64
+    Width = 141
+    TabOrder = 1
+  end
+  object Label2: TLabel
+    Left = 328
+    Height = 15
+    Top = 40
+    Width = 141
+    Caption = 'Двоичная сис. счисления'
+    ParentColor = False
+  end
+  object Edit3: TEdit
+    Left = 16
+    Height = 23
+    Top = 128
+    Width = 122
+    TabOrder = 2
+  end
+  object Label3: TLabel
+    Left = 328
+    Height = 15
+    Top = 104
+    Width = 151
+    Caption = 'Десятичная сис. счисления'
+    ParentColor = False
+  end
+  object Edit4: TEdit
+    Left = 328
+    Height = 23
+    Top = 128
+    Width = 141
+    TabOrder = 3
+  end
+  object Label4: TLabel
+    Left = 16
+    Height = 15
+    Top = 104
+    Width = 141
+    Caption = 'Двоичная сис. счисления'
+    ParentColor = False
+  end
+  object Button1: TButton
+    Left = 200
+    Height = 25
+    Top = 64
+    Width = 75
+    Caption = 'Ok'
+    OnClick = Button1Click
+    TabOrder = 4
+  end
+  object Button2: TButton
+    Left = 200
+    Height = 25
+    Top = 128
+    Width = 75
+    Caption = 'Ok'
+    OnClick = Button2Click
+    TabOrder = 5
+  end
+  object Button3: TButton
+    Left = 38
+    Height = 25
+    Top = 248
+    Width = 75
+    Caption = 'Очистить'
+    OnClick = Button3Click
+    TabOrder = 6
+  end
+  object Button4: TButton
+    Left = 152
+    Height = 25
+    Top = 248
+    Width = 75
+    Caption = 'Закрыть'
+    OnClick = Button4Click
+    TabOrder = 7
+  end
+end

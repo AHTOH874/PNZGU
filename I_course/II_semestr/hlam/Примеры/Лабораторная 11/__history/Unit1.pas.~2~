@@ -1,0 +1,100 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls;
+
+type
+  TForm1 = class(TForm)
+    Memo1: TMemo;
+    Button1: TButton;
+    Button2: TButton;
+    Button3: TButton;
+    Button4: TButton;
+    Button5: TButton;
+    Memo2: TMemo;
+    Button6: TButton;
+    procedure Button3Click(Sender: TObject);
+    procedure Button4Click(Sender: TObject);
+    procedure Button2Click(Sender: TObject);
+    procedure Button5Click(Sender: TObject);
+    procedure Button1Click(Sender: TObject);
+    procedure Button6Click(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+
+implementation
+
+{$R *.dfm}
+Uses ClipBrd; // подключаем буфер обмена windows
+procedure TForm1.Button3Click(Sender: TObject);
+begin
+Clipboard.SetTextBuf(PChar(Memo1.SelText));
+end;
+  
+procedure TForm1.Button4Click(Sender: TObject);
+begin
+Memo1.selText:= Clipboard.AsText;
+end;
+
+procedure TForm1.Button2Click(Sender: TObject);
+begin
+Clipboard.SetTextBuf(PChar(Memo1.SelText));
+Memo1.selText:='';
+end;
+
+procedure TForm1.Button5Click(Sender: TObject);
+var kek:integer;
+begin
+  kek:=MessageDlg('Завершить работу?',mtWarning,[mbYes, mbNo],0);
+  if kek=mrYes then
+  form1.Close;
+end;
+
+procedure TForm1.Button1Click(Sender: TObject);
+Const
+N=5;        //переменные, которые нельзя изменить
+Premia=['а','е','ё','и','о','у','ы','э','ю','я'];
+Var
+a:array [1..N] of string;
+i,j,Nmin,m,k:integer;
+h:char;
+p,S,sl,sn:string; //переменная, содержащая весь скопированный текст
+begin
+m:=sizeof(S);
+s:=Clipboard.AsText;
+k:=0;
+sl:='';
+while s[1]=' ' do delete(s,1,1);
+for i := 1 to length(s) do   begin
+  if s[i]=' ' then  begin
+    if k>m then begin  m:=k; sn:=sl; end;
+    sl:=''; k:=0;
+  end;
+  if s[i]<>' ' then begin inc(k); sl:=sl+s[i] end;
+
+end;
+memo2.Lines.Add(sn);
+
+
+
+
+
+
+end;
+
+procedure TForm1.Button6Click(Sender: TObject);
+begin
+Memo1.Clear;
+Memo2.Clear;
+end;
+
+end.

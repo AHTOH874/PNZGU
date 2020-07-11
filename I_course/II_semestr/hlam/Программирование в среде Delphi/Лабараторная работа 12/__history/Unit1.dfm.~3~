@@ -1,0 +1,242 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 461
+  ClientWidth = 873
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object PageControl1: TPageControl
+    Left = 72
+    Top = 40
+    Width = 705
+    Height = 353
+    ActivePage = TabSheet2
+    TabOrder = 0
+    object TabSheet1: TTabSheet
+      Caption = #1050#1072#1083#1100#1082#1091#1083#1103#1090#1086#1088
+      ExplicitLeft = 0
+      ExplicitTop = 16
+      object Label1: TLabel
+        Left = 50
+        Top = 91
+        Width = 84
+        Height = 25
+        Caption = #1060#1091#1085#1082#1094#1080#1080
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 25
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Label2: TLabel
+        Left = 218
+        Top = 138
+        Width = 97
+        Height = 25
+        Caption = #1056#1077#1079#1091#1083#1100#1090#1072#1090
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 25
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Edit1: TEdit
+        Left = 140
+        Top = 3
+        Width = 269
+        Height = 38
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 30
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 0
+      end
+      object Button10: TButton
+        Left = 360
+        Top = 91
+        Width = 49
+        Height = 41
+        Hint = #1040#1088#1082#1090#1072#1085#1075#1077#1085#1089
+        Caption = 'arctan'
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 1
+        OnClick = Button10Click
+      end
+      object Button11: TButton
+        Left = 140
+        Top = 91
+        Width = 49
+        Height = 41
+        Hint = #1057#1091#1084#1084#1072
+        Caption = '+'
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 2
+        OnClick = Button11Click
+      end
+      object Button12: TButton
+        Left = 195
+        Top = 91
+        Width = 49
+        Height = 41
+        Hint = #1056#1072#1079#1085#1086#1089#1090#1100
+        Caption = '-'
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 3
+        OnClick = Button12Click
+      end
+      object Button13: TButton
+        Left = 250
+        Top = 91
+        Width = 49
+        Height = 41
+        Hint = #1057#1080#1085#1091#1089
+        Caption = 'sin'
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 4
+        OnClick = Button13Click
+      end
+      object Button14: TButton
+        Left = 305
+        Top = 91
+        Width = 49
+        Height = 41
+        Hint = #1050#1086#1089#1080#1085#1091#1089
+        Caption = 'cos'
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 5
+        OnClick = Button14Click
+      end
+      object Edit2: TEdit
+        Left = 140
+        Top = 47
+        Width = 269
+        Height = 38
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 30
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 6
+      end
+      object Edit3: TEdit
+        Left = 140
+        Top = 169
+        Width = 269
+        Height = 38
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 30
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+        TabOrder = 7
+      end
+      object Button1: TButton
+        Left = 432
+        Top = 91
+        Width = 75
+        Height = 41
+        Caption = #1054#1095#1080#1089#1090#1080#1090#1100
+        TabOrder = 8
+        OnClick = Button1Click
+      end
+    end
+    object TabSheet2: TTabSheet
+      Caption = #1057#1087#1080#1076#1086#1084#1077#1090#1088
+      ImageIndex = 1
+      ExplicitLeft = 12
+      object Label3: TLabel
+        Left = 475
+        Top = 59
+        Width = 162
+        Height = 50
+        Caption = '00:00:00'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 50
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Label4: TLabel
+        Left = 24
+        Top = 3
+        Width = 13
+        Height = 50
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 50
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Label5: TLabel
+        Left = 127
+        Top = 27
+        Width = 18
+        Height = 20
+        Caption = '1'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 20
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Label6: TLabel
+        Left = 105
+        Top = 59
+        Width = 9
+        Height = 20
+        Caption = '1'
+        Font.Charset = DEFAULT_CHARSET
+        Font.Color = clWindowText
+        Font.Height = 20
+        Font.Name = 'Tahoma'
+        Font.Style = []
+        ParentFont = False
+      end
+      object Button2: TButton
+        Left = 24
+        Top = 28
+        Width = 97
+        Height = 25
+        Caption = #1055#1086#1082#1072#1079#1072#1090#1100' '#1076#1072#1090#1091
+        TabOrder = 0
+        OnClick = Button2Click
+      end
+      object Button4: TButton
+        Left = 24
+        Top = 59
+        Width = 75
+        Height = 25
+        Caption = #1044#1077#1085#1100' '#1085#1077#1076#1077#1083#1080
+        TabOrder = 1
+        OnClick = Button4Click
+      end
+    end
+  end
+  object Timer1: TTimer
+    OnTimer = Timer1Timer
+    Left = 244
+    Top = 88
+  end
+end

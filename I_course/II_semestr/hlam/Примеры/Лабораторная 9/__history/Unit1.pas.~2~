@@ -1,0 +1,144 @@
+unit Unit1;
+
+interface
+
+uses
+  Windows, Messages, SysUtils, Variants, Classes, Graphics, Controls, Forms,
+  Dialogs, StdCtrls, Buttons, Grids, ComCtrls, Spin, TeEngine, Series,
+  ExtCtrls, TeeProcs, Chart, VclTee.TeeGDIPlus;
+
+type
+  TForm1 = class(TForm)
+    PageControl1: TPageControl;
+    TabSheet1: TTabSheet;
+    TabSheet2: TTabSheet;
+    TabSheet3: TTabSheet;
+    StringGrid1: TStringGrid;
+    SpinEdit1: TSpinEdit;
+    Label1: TLabel;
+    Label2: TLabel;
+    SpinEdit2: TSpinEdit;
+    Chart1: TChart;
+    Series1: TBarSeries;
+    Memo1: TMemo;
+    Label3: TLabel;
+    BitBtn5: TBitBtn;
+    BitBtn4: TBitBtn;
+    BitBtn3: TBitBtn;
+    BitBtn2: TBitBtn;
+    BitBtn1: TBitBtn;
+    procedure FormCreate(Sender: TObject);
+    procedure BitBtn1Click(Sender: TObject);
+    procedure BitBtn5Click(Sender: TObject);
+    procedure BitBtn2Click(Sender: TObject);
+    procedure BitBtn3Click(Sender: TObject);
+    procedure BitBtn4Click(Sender: TObject);
+     private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Form1: TForm1;
+  sr:real;
+  n,m:integer;
+  a:array[0..50, 0..10] of integer;
+
+implementation
+
+{$R *.dfm}
+
+procedure TForm1.FormCreate(Sender: TObject);
+begin
+StringGrid1.Cells[0,0]:='Фамилии/Предметы';            //меняет значение 0,0 массива на слово
+end;
+
+
+procedure TForm1.BitBtn1Click(Sender: TObject);
+Var
+i:integer;
+begin
+n:=SpinEdit1.Value;
+m:=SpinEdit2.Value;
+StringGrid1.Visible:=True;
+StringGrid1.RowCount:=n+1;
+StringGrid1.ColCount:=m+1;
+for i:=1 to m do
+StringGrid1.Cells[i,0]:=InputBox('Ввод данных','Введите предмет','')   //IB-сообщение с возможностью ввода
+end;
+
+procedure TForm1.BitBtn5Click(Sender: TObject);
+Var
+lol:integer;
+begin
+lol:=MessageDlg('Закрыть программу?', mtWarning,[mbYes,mbNo],0);
+if lol=mrYes then Close;
+end;
+
+procedure TForm1.BitBtn2Click(Sender: TObject);
+Var
+i,j,del,code:integer;
+begin
+for i:=1 to m do begin
+for j:=1 to n do begin
+Val(StringGrid1.Cells[i,j],del,code); //Преобразовывает строковое значение (S) в его числовое представление, как это происходит при чтении из текстового файла с помощью Read. Code — позиция, в которой произошла ошибка при преобразовании, или нуль, если ошибки не было.
+if code=0 then
+sr:=sr+del else begin
+ShowMessage('Введите число в позицию '+inttostr(i+1)+'x'+inttostr(j+1)); //в какой позиции найдена ошибка
+Exit; //Выход из процедуры&функции
+end;
+end;
+sr:=sr/n;
+StringGrid1.Cells[i,n+1]:=floattostr(sr);
+sr:=0; //чтобы считать следующий столбец
+end;
+StringGrid1.RowCount:=n+2;
+StringGrid1.Cells[0,n+1]:='Средний балл';
+end;
+
+
+procedure TForm1.BitBtn3Click(Sender: TObject);
+    var
+    i:integer;
+    s:Tcolor;
+begin
+  for i:=1 to m do
+    begin
+      case i of
+        1: s:=clwhite;
+        2: s:=clblue;
+        3: s:=clfuchsia;
+        4: s:=clgray;
+        5: s:=clgreen;
+        6: s:=clteal;
+        7: s:=clnavy;
+        8: s:=clred;
+        9: s:=clpurple;
+        10: s:=clyellow;
+        end;
+    form1.series1.AddBar(strtofloat(StringGrid1.Cells[i,n+1]),StringGrid1.Cells[i,0],s);
+end;
+end;
+procedure TForm1.BitBtn4Click(Sender: TObject);
+Var
+i,imin,imax:integer;
+max,min:real;
+begin
+max:=0;
+for i:=1 to m do
+if Strtofloat(StringGrid1.Cells[i,n+1])>max then begin
+max:=Strtofloat(StringGrid1.Cells[i,n+1]);
+imax:=i; //запоминаем столбец, чтобы потом вывести название предмета
+end;
+min:=max;
+for i:=1 to m do
+if Strtofloat(StringGrid1.Cells[i,n+1])<min then begin
+min:=Strtofloat(StringGrid1.Cells[i,n+1]);
+imin:=i; //запоминаем столбец, чтобы потом вывести название предмета
+end;
+Memo1.Lines.Add('Наименьший балл: '+floattostr(min)+' по дисциплине '+StringGrid1.Cells[imin,0]);
+Memo1.Lines.Add('Наибольший балл: '+floattostr(max) +' по дисциплине '+StringGrid1.Cells[imax,0]);
+end;
+
+end.
